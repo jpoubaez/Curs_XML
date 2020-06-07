@@ -1,0 +1,27 @@
+<!ELEMENT receptes (autor,recepta+)>
+<!ELEMENT autor (cognoms, nom, email, foto)>
+<!ELEMENT cognoms (#PCDATA)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT foto (#PCDATA)>
+<!ELEMENT recepta (titol, categoria, idioma,informacio_general, ingredients, preparacio)>
+<!ELEMENT titol (#PCDATA)>
+<!ELEMENT categoria (#PCDATA)>
+<!ATTLIST categoria tipus (Entrants|Ensalada|Pasta|Sopa|Peix|Carn|Postres) #REQUIRED>
+<!ELEMENT idioma (#PCDATA)>
+<!ELEMENT informacio_general (foto_m, comensals, temps, dificultat)>
+<!ELEMENT foto_m (#PCDATA)>
+<!ELEMENT comensals (#PCDATA)>
+<!ELEMENT temps (#PCDATA)>
+<!ATTLIST temps
+          unitat CDATA #REQUIRED>
+<!ELEMENT dificultat (#PCDATA)>
+<!ELEMENT ingredients (ingredient+)>
+<!ELEMENT ingredient (#PCDATA)>
+<!ATTLIST ingredient
+          quantitat CDATA #IMPLIED
+          unitat CDATA #IMPLIED>
+<!ELEMENT preparacio (pas+)>
+<!ELEMENT pas (#PCDATA)>
+<!ATTLIST pas
+          numero CDATA #REQUIRED>

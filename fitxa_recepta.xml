@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="fitxa_recepta.xsl"?>
+<!DOCTYPE receptes SYSTEM "receptes_ampliat.dtd">
+<receptes>
+<autor>
+<cognoms>Pou</cognoms>
+<nom>Joan</nom>
+<email>cuinaxml@gmail.com</email>
+<foto>https://pbs.twimg.com/profile_images/801740837797462016/Iqt_5qd2_200x200.jpg</foto>
+</autor>
+<recepta>
+<titol>ALBERGÍNIES FARCIDES AMB CARBASSA I ANXOVES</titol>
+<categoria tipus="Peix"></categoria>
+<idioma>CAT-cat</idioma>
+<informacio_general>
+<foto_m>https://doc-0o-bc-docs.googleusercontent.com/docs/securesc/fnn01ogdk24tkn9na4700b9mvbcbepab/2s4qqa71nrrc2n5jk1tavfkv9c5ckgv1/1589831400000/06970984897874517755/11504249399963993012/1YwaNSFr5FL2Ud-_bHwKSavPoAEXr3SaD?e=view&amp;authuser=0&amp;nonce=c7th9rfuv8bp0&amp;user=11504249399963993012&amp;hash=hka3gssrna2kgemsbk1ndgtm8a6qj7b3</foto_m>
+<comensals>4</comensals>
+<temps unitat="minutos">70</temps>
+<dificultat>Baixa</dificultat>
+</informacio_general>
+<ingredients>
+<ingredient quantitat="500" unitat="grams">Carbassa</ingredient>
+<ingredient quantitat="2">Albergínies</ingredient>
+<ingredient quantitat="1">Ceba Grossa</ingredient>
+<ingredient quantitat="4">Alls tendres</ingredient>
+<ingredient quantitat="100" unitat="grams">Formatge emmental</ingredient>
+<ingredient quantitat="1" unitat="llauna">Anxoves</ingredient>
+<ingredient>Oli</ingredient>
+<ingredient>Sal</ingredient>
+</ingredients>
+<preparacio>
+<pas numero="1">Escalfar el forn a 200º.</pas>
+<pas numero="2">Tallar les albergínies per la meitat al llarg i fer uns talls encreuats a la polpa , afegir sal i oli. Posar-los en una plata d'anar al forn i coure uns 45 minuts. Treure del forn i quan estiguin tebis amb una cullera.</pas>
+<pas numero="3">separarem la carn de la pell. Reservar.</pas>
+<pas numero="4">En una paella amb oli, hi posarem els alls tendres, la ceba, la sal, tot tallat ben petit. Quan estigui transparent hi afegirem la carbassa tallada petita (la passo per l'1,2,3) i deixarem coure uns 8 minuts. Picarem les anxoves petites i la carn de les albergínies. Ho afegirem a la paella. Deixar coure 2 minuts més.</pas>
+<pas numero="5">Omplir la carcassa de les albergínies amb la barreja i espolsar-hi al cim força formatge. Gratinar al forn uns 2 o 3 minuts.</pas>
+<pas numero="6">Es un plat d'escàs valor energètic i d'alt poder diürètic.</pas>
+</preparacio>
+</recepta>
+</receptes>
