@@ -1,0 +1,3593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ACB.xsl"?>
+<data>
+  <_0>
+    <Jugador>Brandon Davies</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>Uganda</Pais>
+    <Llicencia>COT</Llicencia>
+    <Altura>2.08</Altura>
+    <Edat>28</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip FC Barcelona</Equip>
+    <foto>https://static.acb.com/img/2f/22/41/156115pre7327.jpg</foto>
+    <Autor>Ferran</Autor>
+  </_0>
+  <_5>
+    <Jugador>Pau Ribas</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.94</Altura>
+    <Edat>33</Edat>
+    <Temporades>5</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip FC Barcelona</Equip>
+    <foto>https://static.acb.com/img/60/2a/10/156475pre7306.jpg</foto>
+    <Autor>Ferran</Autor>
+  </_5>
+  <_8>
+    <Jugador>Adam Hanga</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>Hungría</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.99</Altura>
+    <Edat>31</Edat>
+    <Temporades>3</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip FC Barcelona</Equip>
+    <foto>https://static.acb.com/img/37/59/c/155929pre7330.jpg</foto>
+    <Autor>Ferran</Autor>
+  </_8>
+  <_10>
+    <Jugador>Rolands Smits</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>Letonia</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.07</Altura>
+    <Edat>24</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip FC Barcelona</Equip>
+    <foto>https://static.acb.com/img/41/4e/53/156550pre7303.jpg</foto>
+    <Autor>Ferran</Autor>
+  </_10>
+  <_18>
+    <Jugador>Pierre Oriola</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.06</Altura>
+    <Edat>27</Edat>
+    <Temporades>3</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip FC Barcelona</Equip>
+    <foto>https://static.acb.com/img/5/59/3f/156523pre7312.jpg</foto>
+    <Autor>Ferran</Autor>
+  </_18>
+  <_21>
+    <Jugador>Álex Abrines</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.98</Altura>
+    <Edat>26</Edat>
+    <Temporades>5</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip FC Barcelona</Equip>
+    <foto>https://static.acb.com/img/23/2b/4b/155983pre7342.jpg</foto>
+    <Autor>Ferran</Autor>
+  </_21>
+  <_22>
+    <Jugador>Cory Higgins</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>EE.UU.</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>1.96</Altura>
+    <Edat>30</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip FC Barcelona</Equip>
+    <foto>https://static.acb.com/img/31/49/49/156160pre7345.jpg</foto>
+    <Autor>Ferran</Autor>
+  </_22>
+  <_23>
+    <Jugador>Malcolm Delaney</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>EE.UU.</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>1.91</Altura>
+    <Edat>31</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip FC Barcelona</Equip>
+    <foto>https://static.acb.com/img/49/c/5d/156367pre7315.jpg</foto>
+    <Autor>Ferran</Autor>
+  </_23>
+  <_24>
+    <Jugador>Kyle Kuric</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>Eslovaquia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.93</Altura>
+    <Edat>30</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip FC Barcelona</Equip>
+    <foto>https://static.acb.com/img/3e/2f/44/156307pre7336.jpg</foto>
+    <Autor>Ferran</Autor>
+  </_24>
+  <_30>
+    <Jugador>Víctor Claver</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.07</Altura>
+    <Edat>31</Edat>
+    <Temporades>4</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip FC Barcelona</Equip>
+    <foto>https://static.acb.com/img/40/3e/6/156664pre7300.jpg</foto>
+    <Autor>Ferran</Autor>
+  </_30>
+  <_33>
+    <Jugador>Nikola Mirotic</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.08</Altura>
+    <Edat>29</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip FC Barcelona</Equip>
+    <foto>https://static.acb.com/img/17/1c/60/156430pre7354.jpg</foto>
+    <Autor>Ferran</Autor>
+  </_33>
+  <_44>
+    <Jugador>Ante Tomic</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Croacia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.17</Altura>
+    <Edat>33</Edat>
+    <Temporades>8</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip FC Barcelona</Equip>
+    <foto>https://static.acb.com/img/48/3e/2e/156046pre7324.jpg</foto>
+    <Autor>Ferran</Autor>
+  </_44>
+  <_31>
+    <Jugador>Leandro Bolmaro</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>Italia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.98</Altura>
+    <Edat>19</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Equip FC Barcelona</Equip>
+    <foto>https://static.acb.com/img/55/41/2b/156310pre9015.jpg</foto>
+    <Autor>Ferran</Autor>
+  </_31>
+  <_32>
+    <Jugador>Sergi Martínez</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2</Altura>
+    <Edat>20</Edat>
+    <Temporades>5</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Equip FC Barcelona</Equip>
+    <foto>https://static.acb.com/img/e/2c/3d/156574pre11335.jpg</foto>
+    <Autor>Ferran</Autor>
+  </_32>
+  <_5>
+    <Jugador>Guillem Jou</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.95</Altura>
+    <Edat>22</Edat>
+    <Temporades>4</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip Baxi Manresa</Equip>
+    <foto>https://static.acb.com/img/3d/17/59/158883pre7574.jpg</foto>
+    <Autor>IGonzalo</Autor>
+  </_5>
+  <_6>
+    <Jugador>Luke Nelson</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>Reino Unido</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.91</Altura>
+    <Edat>24</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip Baxi Manresa</Equip>
+    <foto>https://static.acb.com/img/9/52/24/185272pre14385.jpg</foto>
+    <Autor>IGonzalo</Autor>
+  </_6>
+  <_11>
+    <Jugador>William Magarity</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>Suecia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.11</Altura>
+    <Edat>26</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip Baxi Manresa</Equip>
+    <foto>https://static.acb.com/img/3/2d/1/159198pre7583.jpg</foto>
+    <Autor>IGonzalo</Autor>
+  </_11>
+  <_13>
+    <Jugador>Eulis Báez</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.01</Altura>
+    <Edat>38</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip Baxi Manresa</Equip>
+    <foto>https://static.acb.com/img/1e/5/4b/158760pre7598.jpg</foto>
+    <Autor>IGonzalo</Autor>
+  </_13>
+  <_18>
+    <Jugador>Jordan Sakho</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>República Democrática del Congo</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.07</Altura>
+    <Edat>23</Edat>
+    <Temporades>3</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip Baxi Manresa</Equip>
+    <foto>https://static.acb.com/img/32/e/27/158976pre7616.jpg</foto>
+    <Autor>IGonzalo</Autor>
+  </_18>
+  <_19>
+    <Jugador>Pere Tomàs</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2</Altura>
+    <Edat>30</Edat>
+    <Temporades>3</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip Baxi Manresa</Equip>
+    <foto>https://static.acb.com/img/13/1d/10/159099pre7619.jpg</foto>
+    <Autor>IGonzalo</Autor>
+  </_19>
+  <_21>
+    <Jugador>Luka Mitrovic</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>Serbia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.04</Altura>
+    <Edat>27</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip Baxi Manresa</Equip>
+    <foto>https://static.acb.com/img/35/5f/43/180199pre12297.jpg</foto>
+    <Autor>IGonzalo</Autor>
+  </_21>
+  <_22>
+    <Jugador>Juan Pablo Vaulet</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>Polonia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.99</Altura>
+    <Edat>24</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip Baxi Manresa</Equip>
+    <foto>https://static.acb.com/img/48/15/41/159018pre7634.jpg</foto>
+    <Autor>IGonzalo</Autor>
+  </_22>
+  <_44>
+    <Jugador>Deividas Dulkys</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>Lituania</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.95</Altura>
+    <Edat>32</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip Baxi Manresa</Equip>
+    <foto>https://static.acb.com/img/3c/54/e/151616pre6675.jpg</foto>
+    <Autor>IGonzalo</Autor>
+  </_44>
+  <_45>
+    <Jugador>David Kravish</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>EE.UU.</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>2.08</Altura>
+    <Edat>27</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip Baxi Manresa</Equip>
+    <foto>https://static.acb.com/img/13/48/58/158649pre7637.jpg</foto>
+    <Autor>IGonzalo</Autor>
+  </_45>
+  <_50>
+    <Jugador>A. Cvetkovic</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>Serbia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.88</Altura>
+    <Edat>26</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip Baxi Manresa</Equip>
+    <foto>https://static.acb.com/img/39/49/e/190807pre15773.jpg</foto>
+    <Autor>IGonzalo</Autor>
+  </_50>
+  <_55>
+    <Jugador>Dani Pérez</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.88</Altura>
+    <Edat>30</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip Baxi Manresa</Equip>
+    <foto>https://static.acb.com/img/41/54/5d/158577pre7646.jpg</foto>
+    <Autor>IGonzalo</Autor>
+  </_55>
+  <_1>
+    <Jugador>David Orrit</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.88</Altura>
+    <Edat>19</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Equip Baxi Manresa</Equip>
+    <foto>https://static.acb.com/img/62/f/28/158694pre10212.jpg</foto>
+    <Autor>IGonzalo</Autor>
+  </_1>
+  <_25>
+    <Jugador>Marc Peñarroya</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.9</Altura>
+    <Edat>18</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Equip Baxi Manresa</Equip>
+    <foto>---</foto>
+    <Autor>IGonzalo</Autor>
+  </_25>
+  <_25>
+    <Jugador>David Efambé</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>Congo</Pais>
+    <Llicencia>COT</Llicencia>
+    <Altura>2.01</Altura>
+    <Edat>18</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Equip Baxi Manresa</Equip>
+    <foto>https://static.acb.com/img/10/63/5d/71717pre3236.jpg</foto>
+    <Autor>IGonzalo</Autor>
+  </_25>
+  <_7>
+    <Jugador>Jonathan Barreiro</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.05</Altura>
+    <Edat>23</Edat>
+    <Temporades>4</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip Casademont Zaragoza</Equip>
+    <foto>https://static.acb.com/img/32/6/43/152004pre6786.jpg</foto>
+    <Autor>fcullere</Autor>
+  </_7>
+  <_8>
+    <Jugador>DJ Seeley</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>EE.UU.</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>1.93</Altura>
+    <Edat>30</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip Casademont Zaragoza</Equip>
+    <foto>https://static.acb.com/img/3e/40/c/151767pre6795.jpg</foto>
+    <Autor>fcullere</Autor>
+  </_8>
+  <_9>
+    <Jugador>Nicolás Brussino</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>Italia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.01</Altura>
+    <Edat>27</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip Casademont Zaragoza</Equip>
+    <foto>https://static.acb.com/img/a/6/3e/152118pre6801.jpg</foto>
+    <Autor>fcullere</Autor>
+  </_9>
+  <_10>
+    <Jugador>Renaldas Seibutis</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>Lituania</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.96</Altura>
+    <Edat>34</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip Casademont Zaragoza</Equip>
+    <foto>https://static.acb.com/img/5f/52/35/152190pre6804.jpg</foto>
+    <Autor>fcullere</Autor>
+  </_10>
+  <_11>
+    <Jugador>Nemanja Radovic</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>Montenegro</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.08</Altura>
+    <Edat>28</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip Casademont Zaragoza</Equip>
+    <foto>https://static.acb.com/img/1a/38/50/152070pre6810.jpg</foto>
+    <Autor>fcullere</Autor>
+  </_11>
+  <_12>
+    <Jugador>Carlos Alocén</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.94</Altura>
+    <Edat>19</Edat>
+    <Temporades>4</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip Casademont Zaragoza</Equip>
+    <foto>https://static.acb.com/img/44/1f/62/151704pre6816.jpg</foto>
+    <Autor>fcullere</Autor>
+  </_12>
+  <_17>
+    <Jugador>Fran Vázquez</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.09</Altura>
+    <Edat>37</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip Casademont Zaragoza</Equip>
+    <foto>https://static.acb.com/img/58/47/51/151815pre6828.jpg</foto>
+    <Autor>fcullere</Autor>
+  </_17>
+  <_19>
+    <Jugador>Robin Benzing</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>Alemania</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.08</Altura>
+    <Edat>31</Edat>
+    <Temporades>3</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip Casademont Zaragoza</Equip>
+    <foto>https://static.acb.com/img/2c/1e/5d/152253pre6837.jpg</foto>
+    <Autor>fcullere</Autor>
+  </_19>
+  <_21>
+    <Jugador>R. San Miguel</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.86</Altura>
+    <Edat>35</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip Casademont Zaragoza</Equip>
+    <foto>https://static.acb.com/img/d/1/2/152310pre6843.jpg</foto>
+    <Autor>fcullere</Autor>
+  </_21>
+  <_31>
+    <Jugador>Dylan Ennis</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>Serbia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.88</Altura>
+    <Edat>28</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip Casademont Zaragoza</Equip>
+    <foto>https://static.acb.com/img/1b/f/3e/185038pre14311.jpg</foto>
+    <Autor>fcullere</Autor>
+  </_31>
+  <_32>
+    <Jugador>Tryggvi Hlinason</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Islandia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.16</Altura>
+    <Edat>22</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip Casademont Zaragoza</Equip>
+    <foto>https://static.acb.com/img/50/5b/50/152364pre6861.jpg</foto>
+    <Autor>fcullere</Autor>
+  </_32>
+  <_33>
+    <Jugador>Jason Thompson</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>EE.UU.</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>2.11</Altura>
+    <Edat>33</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Equip Casademont Zaragoza</Equip>
+    <foto>https://static.acb.com/img/59/45/3a/213771pre22905.jpg</foto>
+    <Autor>fcullere</Autor>
+  </_33>
+  <_16>
+    <Jugador>Aitor Etxeguren</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.06</Altura>
+    <Edat>17</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Equip Casademont Zaragoza</Equip>
+    <foto>https://static.acb.com/img/f/e/d/178576pre12172.jpg</foto>
+    <Autor>fcullere</Autor>
+  </_16>
+  <_18>
+    <Jugador>Josep Cera</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.86</Altura>
+    <Edat>17</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Equip Casademont Zaragoza</Equip>
+    <foto>https://static.acb.com/img/11/30/36/185044pre19845.jpg</foto>
+    <Autor>fcullere</Autor>
+  </_18>
+  <_27>
+    <Jugador>Vit Krejci</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>Rep. Checa</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.93</Altura>
+    <Edat>19</Edat>
+    <Temporades>3</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Equip Casademont Zaragoza</Equip>
+    <foto>https://static.acb.com/img/5b/23/3c/152388pre6855.jpg</foto>
+    <Autor>fcullere</Autor>
+  </_27>
+  <_44>
+    <Jugador>Javier García</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.85</Altura>
+    <Edat>19</Edat>
+    <Temporades>3</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Equip Casademont Zaragoza</Equip>
+    <foto>https://static.acb.com/img/d/3b/30/151863pre8667.jpg</foto>
+    <Autor>fcullere</Autor>
+  </_44>
+  <_0>
+    <Jugador>Nenad Dimitrijevic</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>Macedonia</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.9</Altura>
+    <Edat>22</Edat>
+    <Temporades>5</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Club Joventut Badalona</Equip>
+    <foto>https://static.acb.com/img/7/51/3c/202050pre18366.jpg</foto>
+    <Autor>jgoma</Autor>
+  </_0>
+  <_3>
+    <Jugador>Tony Wroten</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>EE.UU.</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>1.96</Altura>
+    <Edat>27</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Club Joventut Badalona</Equip>
+    <foto>https://static.acb.com/img/14/15/5e/213939pre22707.jpg</foto>
+    <Autor>jgoma</Autor>
+  </_3>
+  <_4>
+    <Jugador>Joel Parra</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.01</Altura>
+    <Edat>20</Edat>
+    <Temporades>4</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Club Joventut Badalona</Equip>
+    <foto>https://static.acb.com/img/2/5b/d/201849pre18372.jpg</foto>
+    <Autor>jgoma</Autor>
+  </_4>
+  <_6>
+    <Jugador>X. López-Aróstegui</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2</Altura>
+    <Edat>22</Edat>
+    <Temporades>4</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Club Joventut Badalona</Equip>
+    <foto>https://static.acb.com/img/4/3a/44/202278pre18378.jpg</foto>
+    <Autor>jgoma</Autor>
+  </_6>
+  <_9>
+    <Jugador>Conor Morgan</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>Irlanda</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.06</Altura>
+    <Edat>25</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Club Joventut Badalona</Equip>
+    <foto>https://static.acb.com/img/55/5/33/201780pre18381.jpg</foto>
+    <Autor>jgoma</Autor>
+  </_9>
+  <_10>
+    <Jugador>Klemen Prepelic</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>Eslovenia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.91</Altura>
+    <Edat>27</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Club Joventut Badalona</Equip>
+    <foto>https://static.acb.com/img/5e/12/55/201948pre18384.jpg</foto>
+    <Autor>jgoma</Autor>
+  </_10>
+  <_11>
+    <Jugador>Kerem Kanter</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Turquía</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.06</Altura>
+    <Edat>25</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Club Joventut Badalona</Equip>
+    <foto>https://static.acb.com/img/1f/5/15/201912pre18387.jpg</foto>
+    <Autor>jgoma</Autor>
+  </_11>
+  <_14>
+    <Jugador>Albert Ventura</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.91</Altura>
+    <Edat>28</Edat>
+    <Temporades>10</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Club Joventut Badalona</Equip>
+    <foto>https://static.acb.com/img/2d/4f/50/201606pre18390.jpg</foto>
+    <Autor>jgoma</Autor>
+  </_14>
+  <_23>
+    <Jugador>Alen Omic</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Eslovenia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.16</Altura>
+    <Edat>27</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Club Joventut Badalona</Equip>
+    <foto>https://static.acb.com/img/16/3a/d/201633pre18393.jpg</foto>
+    <Autor>jgoma</Autor>
+  </_23>
+  <_41>
+    <Jugador>Oliver Stevic</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Serbia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.04</Altura>
+    <Edat>36</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Club Joventut Badalona</Equip>
+    <foto>https://static.acb.com/img/33/62/6/202113pre18405.jpg</foto>
+    <Autor>jgoma</Autor>
+  </_41>
+  <_81>
+    <Jugador>Luke Harangody</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>EE.UU.</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>2.03</Altura>
+    <Edat>32</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Club Joventut Badalona</Equip>
+    <foto>https://static.acb.com/img/c/18/53/202032pre18399.jpg</foto>
+    <Autor>jgoma</Autor>
+  </_81>
+  <_3>
+    <Jugador>Pep Busquets</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.97</Altura>
+    <Edat>21</Edat>
+    <Temporades>5</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Club Joventut Badalona</Equip>
+    <foto>https://static.acb.com/img/17/c/5d/147922pre5869.jpg</foto>
+    <Autor>jgoma</Autor>
+  </_3>
+  <_13>
+    <Jugador>Arnau Parrado</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.04</Altura>
+    <Edat>19</Edat>
+    <Temporades>3</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Club Joventut Badalona</Equip>
+    <foto>https://static.acb.com/img/1f/1c/1a/147370pre10013.jpg</foto>
+    <Autor>jgoma</Autor>
+  </_13>
+  <_32>
+    <Jugador>Arturs Zagars</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>Letonia</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.9</Altura>
+    <Edat>20</Edat>
+    <Temporades>3</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Club Joventut Badalona</Equip>
+    <foto>https://static.acb.com/img/3/6/4/147382pre5911.jpg</foto>
+    <Autor>jgoma</Autor>
+  </_32>
+  <_1>
+    <Jugador>Demitrius Conger</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>EE.UU.</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>1.98</Altura>
+    <Edat>29</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Coosur Real Betis</Equip>
+    <foto>https://static.acb.com/img/10/13/18/152697pre9564.jpg</foto>
+    <Autor>mlopez</Autor>
+  </_1>
+  <_4>
+    <Jugador>Albert Oliver</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.87</Altura>
+    <Edat>41</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Coosur Real Betis</Equip>
+    <foto>https://static.acb.com/img/38/e/17/152592pre6915.jpg</foto>
+    <Autor>mlopez</Autor>
+  </_4>
+  <_6>
+    <Jugador>Tobias Borg</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>Suecia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.84</Altura>
+    <Edat>26</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Coosur Real Betis</Equip>
+    <foto>https://static.acb.com/img/15/d/51/153432pre6921.jpg</foto>
+    <Autor>mlopez</Autor>
+  </_6>
+  <_7>
+    <Jugador>Mamadou Niang</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Senegal</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.09</Altura>
+    <Edat>26</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Coosur Real Betis</Equip>
+    <foto>https://static.acb.com/img/7/51/5d/153021pre6981.jpg</foto>
+    <Autor>mlopez</Autor>
+  </_7>
+  <_8>
+    <Jugador>AJ Slaughter</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>Polonia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.91</Altura>
+    <Edat>32</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Coosur Real Betis</Equip>
+    <foto>https://static.acb.com/img/9/27/a/152484pre6987.jpg</foto>
+    <Autor>mlopez</Autor>
+  </_8>
+  <_10>
+    <Jugador>Pablo Almazán</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2</Altura>
+    <Edat>31</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Coosur Real Betis</Equip>
+    <foto>https://static.acb.com/img/4b/22/4f/153213pre6993.jpg</foto>
+    <Autor>mlopez</Autor>
+  </_10>
+  <_11>
+    <Jugador>Nacho Martín</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.02</Altura>
+    <Edat>37</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Coosur Real Betis</Equip>
+    <foto>https://static.acb.com/img/26/60/5/153078pre6999.jpg</foto>
+    <Autor>mlopez</Autor>
+  </_11>
+  <_15>
+    <Jugador>Ebuka Izundu</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Nigeria</Pais>
+    <Llicencia>COT</Llicencia>
+    <Altura>2.08</Altura>
+    <Edat>23</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Coosur Real Betis</Equip>
+    <foto>https://static.acb.com/img/4a/37/d/152718pre7005.jpg</foto>
+    <Autor>mlopez</Autor>
+  </_15>
+  <_22>
+    <Jugador>Erick Green</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>EE.UU.</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>1.9</Altura>
+    <Edat>28</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Coosur Real Betis</Equip>
+    <foto>https://static.acb.com/img/38/3/5a/205620pre20064.jpg</foto>
+    <Autor>mlopez</Autor>
+  </_22>
+  <_25>
+    <Jugador>Kenan Sipahi</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>Turquía</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.97</Altura>
+    <Edat>24</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Coosur Real Betis</Equip>
+    <foto>https://static.acb.com/img/5f/60/5/152913pre7011.jpg</foto>
+    <Autor>mlopez</Autor>
+  </_25>
+  <_32>
+    <Jugador>S. Whittington</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Macedonia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.08</Altura>
+    <Edat>29</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Coosur Real Betis</Equip>
+    <foto>https://static.acb.com/img/13/42/8/153333pre7017.jpg</foto>
+    <Autor>mlopez</Autor>
+  </_32>
+  <_44>
+    <Jugador>Jerome Jordan</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Jamaica</Pais>
+    <Llicencia>COT</Llicencia>
+    <Altura>2.15</Altura>
+    <Edat>33</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Coosur Real Betis</Equip>
+    <foto>https://static.acb.com/img/2c/1b/5c/199572pre17855.jpg</foto>
+    <Autor>mlopez</Autor>
+  </_44>
+  <_1>
+    <Jugador>Quino Colom</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.88</Altura>
+    <Edat>31</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Valencia basket club</Equip>
+    <foto>http://static.acb.com/img/1/5/3c/157227pre7428.jpg</foto>
+    <Autor>frossell</Autor>
+  </_1>
+  <_2>
+    <Jugador>Vanja Marinkovic</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>Serbia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.98</Altura>
+    <Edat>23</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Valencia basket club</Equip>
+    <foto>http://static.acb.com/img/45/24/5c/157308pre7401.jpg</foto>
+    <Autor>frossell</Autor>
+  </_2>
+  <_5>
+    <Jugador>Maurice Ndour</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>Senegal</Pais>
+    <Llicencia>COT</Llicencia>
+    <Altura>2.06</Altura>
+    <Edat>27</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Valencia basket club</Equip>
+    <foto>http://static.acb.com/img/42/1a/8/157167pre7437.jpg</foto>
+    <Autor>frossell</Autor>
+  </_5>
+  <_6>
+    <Jugador>Alberto Abalde</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.02</Altura>
+    <Edat>24</Edat>
+    <Temporades>3</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Valencia basket club</Equip>
+    <foto>http://static.acb.com/img/54/61/2d/156783pre7446.jpg</foto>
+    <Autor>frossell</Autor>
+  </_6>
+  <_7>
+    <Jugador>Louis Labeyrie</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Francia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.08</Altura>
+    <Edat>28</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Valencia basket club</Equip>
+    <foto>http://static.acb.com/img/51/28/47/157110pre7452.jpg</foto>
+    <Autor>frossell</Autor>
+  </_7>
+  <_9>
+    <Jugador>Sam Van Rossom</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>Bélgica</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.88</Altura>
+    <Edat>33</Edat>
+    <Temporades>7</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Valencia basket club</Equip>
+    <foto>http://static.acb.com/img/4c/5c/4b/157284pre7464.jpg</foto>
+    <Autor>frossell</Autor>
+  </_9>
+  <_10>
+    <Jugador>Mike Tobey</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>EE.UU.</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>2.13</Altura>
+    <Edat>25</Edat>
+    <Temporades>3</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Valencia basket club</Equip>
+    <foto>http://static.acb.com/img/a/5c/4d/157188pre7473.jpg</foto>
+    <Autor>frossell</Autor>
+  </_10>
+  <_14>
+    <Jugador>Bojan Dubljevic</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Montenegro</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.05</Altura>
+    <Edat>28</Edat>
+    <Temporades>8</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Valencia basket club</Equip>
+    <foto>http://static.acb.com/img/8/11/43/156837pre7479.jpg</foto>
+    <Autor>frossell</Autor>
+  </_14>
+  <_16>
+    <Jugador>Guillem Vives</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.92</Altura>
+    <Edat>26</Edat>
+    <Temporades>6</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Valencia basket club</Equip>
+    <foto>http://static.acb.com/img/58/4d/2d/156990pre7491.jpg</foto>
+    <Autor>frossell</Autor>
+  </_16>
+  <_19>
+    <Jugador>F. San Emeterio</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.99</Altura>
+    <Edat>36</Edat>
+    <Temporades>5</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Valencia basket club</Equip>
+    <foto>http://static.acb.com/img/16/e/35/156930pre7500.jpg</foto>
+    <Autor>frossell</Autor>
+  </_19>
+  <_30>
+    <Jugador>Joan Sastre</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.01</Altura>
+    <Edat>28</Edat>
+    <Temporades>4</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Valencia basket club</Equip>
+    <foto>http://static.acb.com/img/24/5f/40/157029pre7509.jpg</foto>
+    <Autor>frossell</Autor>
+  </_30>
+  <_42>
+    <Jugador>A. Doornekamp</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>Holanda</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.01</Altura>
+    <Edat>34</Edat>
+    <Temporades>3</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Valencia basket club</Equip>
+    <foto>http://static.acb.com/img/47/5a/6/156750pre7518.jpg</foto>
+    <Autor>frossell</Autor>
+  </_42>
+  <_40>
+    <Jugador>Millán Jiménez</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.94</Altura>
+    <Edat>17</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Valencia basket club</Equip>
+    <foto>---</foto>
+    <Autor>frossell</Autor>
+  </_40>
+  <_43>
+    <Jugador>Tomas Pavelka</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Eslovaquia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.17</Altura>
+    <Edat>19</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Valencia basket club</Equip>
+    <foto>---</foto>
+    <Autor>frossell</Autor>
+  </_43>
+  <_1>
+    <Jugador>Dejan Kravic</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Serbia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.11</Altura>
+    <Edat>29</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Monbus Obradoiro</Equip>
+    <foto>https://static.acb.com/img/3b/49/4c/154245pre7122.jpg</foto>
+    <Autor>mperez</Autor>
+  </_1>
+  <_3>
+    <Jugador>Fletcher Magee</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>EE.UU.</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>1.91</Altura>
+    <Edat>23</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Monbus Obradoiro</Equip>
+    <foto>https://static.acb.com/img/3e/38/47/154335pre7104.jpg</foto>
+    <Autor>mperez</Autor>
+  </_3>
+  <_9>
+    <Jugador>Laurynas Beliauskas</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>Lituania</Pais>
+    <Llicencia />
+    <Altura>1.92</Altura>
+    <Edat>23</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Monbus Obradoiro</Equip>
+    <foto>https://static.acb.com/img/21/2c/5f/213702pre22596.jpg</foto>
+    <Autor>mperez</Autor>
+  </_9>
+  <_10>
+    <Jugador>V. Brodziansky</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Eslovaquia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.1</Altura>
+    <Edat>25</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Monbus Obradoiro</Equip>
+    <foto>https://static.acb.com/img/a/38/0/154686pre7053.jpg</foto>
+    <Autor>mperez</Autor>
+  </_10>
+  <_14>
+    <Jugador>Maxime de Zeeuw</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>Bélgica</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.06</Altura>
+    <Edat>33</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Monbus Obradoiro</Equip>
+    <foto>https://static.acb.com/img/1/5b/0/154476pre7086.jpg</foto>
+    <Autor>mperez</Autor>
+  </_14>
+  <_16>
+    <Jugador>Nick Spires</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>Suecia</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.09</Altura>
+    <Edat>26</Edat>
+    <Temporades>3</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Monbus Obradoiro</Equip>
+    <foto>https://static.acb.com/img/12/61/c/154560pre7068.jpg</foto>
+    <Autor>mperez</Autor>
+  </_16>
+  <_20>
+    <Jugador>David Navarro</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.86</Altura>
+    <Edat>36</Edat>
+    <Temporades>3</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Monbus Obradoiro</Equip>
+    <foto>https://static.acb.com/img/33/7/46/154185pre7131.jpg</foto>
+    <Autor>mperez</Autor>
+  </_20>
+  <_24>
+    <Jugador>Mike Daum</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>EE.UU.</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>2.06</Altura>
+    <Edat>24</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Monbus Obradoiro</Equip>
+    <foto>https://static.acb.com/img/46/4b/2/154500pre7077.jpg</foto>
+    <Autor>mperez</Autor>
+  </_24>
+  <_33>
+    <Jugador>Álvaro Muñoz</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.96</Altura>
+    <Edat>29</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Monbus Obradoiro</Equip>
+    <foto>https://static.acb.com/img/4e/1e/33/154092pre8517.jpg</foto>
+    <Autor>mperez</Autor>
+  </_33>
+  <_35>
+    <Jugador>Chris Czerapowicz</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>Suecia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.01</Altura>
+    <Edat>28</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Monbus Obradoiro</Equip>
+    <foto>https://static.acb.com/img/7/35/14/154155pre7140.jpg</foto>
+    <Autor>mperez</Autor>
+  </_35>
+  <_44>
+    <Jugador>Pepe Pozas</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.82</Altura>
+    <Edat>27</Edat>
+    <Temporades>6</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Monbus Obradoiro</Equip>
+    <foto>https://static.acb.com/img/18/60/2e/154602pre7059.jpg</foto>
+    <Autor>mperez</Autor>
+  </_44>
+  <_77>
+    <Jugador>Kostas Vasileiadis</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>Grecia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2</Altura>
+    <Edat>36</Edat>
+    <Temporades>4</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Monbus Obradoiro</Equip>
+    <foto>https://static.acb.com/img/1a/35/2c/154419pre7095.jpg</foto>
+    <Autor>mperez</Autor>
+  </_77>
+  <_17>
+    <Jugador>Victor Villadóniga</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.07</Altura>
+    <Edat>19</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Monbus Obradoiro</Equip>
+    <foto>https://www.acb.com/Images/Web/silueta2.gif</foto>
+    <Autor>mperez</Autor>
+  </_17>
+  <_22>
+    <Jugador>Aleix Font</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.94</Altura>
+    <Edat>22</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Monbus Obradoiro</Equip>
+    <foto>https://static.acb.com/img/5/38/42/185101pre14352.jpg</foto>
+    <Autor>mperez</Autor>
+  </_22>
+  <_1>
+    <Jugador>Tyson Pérez</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.02</Altura>
+    <Edat>24</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Morabanc Andorra</Equip>
+    <foto>https://static.acb.com/img/4/58/43/149401pre6133.jpg</foto>
+    <Autor>amata</Autor>
+  </_1>
+  <_5>
+    <Jugador>Bandja Sy</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>Francia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.04</Altura>
+    <Edat>29</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Morabanc Andorra</Equip>
+    <foto>https://static.acb.com/img/6/a/2f/148693pre6018.jpg</foto>
+    <Autor>amata</Autor>
+  </_5>
+  <_9>
+    <Jugador>Nacho Llovet</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.02</Altura>
+    <Edat>28</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Morabanc Andorra</Equip>
+    <foto>https://static.acb.com/img/4/0/17/149338pre6009.jpg</foto>
+    <Autor>amata</Autor>
+  </_9>
+  <_10>
+    <Jugador>Frantz Massenat</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>Haití</Pais>
+    <Llicencia>COT</Llicencia>
+    <Altura>1.93</Altura>
+    <Edat>28</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Morabanc Andorra</Equip>
+    <foto>https://static.acb.com/img/43/0/57/149047pre6021.jpg</foto>
+    <Autor>amata</Autor>
+  </_10>
+  <_11>
+    <Jugador>Clevin Hannah</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>Senegal</Pais>
+    <Llicencia>COT</Llicencia>
+    <Altura>1.79</Altura>
+    <Edat>32</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Morabanc Andorra</Equip>
+    <foto>https://static.acb.com/img/4a/1/31/148723pre6030.jpg</foto>
+    <Autor>amata</Autor>
+  </_11>
+  <_20>
+    <Jugador>Dejan Todorovic</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>Serbia</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.96</Altura>
+    <Edat>25</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Morabanc Andorra</Equip>
+    <foto>https://static.acb.com/img/13/48/1a/148960pre6036.jpg</foto>
+    <Autor>amata</Autor>
+  </_20>
+  <_21>
+    <Jugador>Moussa Diagne</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Senegal</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.11</Altura>
+    <Edat>26</Edat>
+    <Temporades>3</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Morabanc Andorra</Equip>
+    <foto>https://static.acb.com/img/15/54/52/149239pre6039.jpg</foto>
+    <Autor>amata</Autor>
+  </_21>
+  <_23>
+    <Jugador>David Walker</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>EE.UU.</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>1.97</Altura>
+    <Edat>26</Edat>
+    <Temporades>4</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Morabanc Andorra</Equip>
+    <foto>https://static.acb.com/img/2a/62/a/148867pre6048.jpg</foto>
+    <Autor>amata</Autor>
+  </_23>
+  <_24>
+    <Jugador>Guillem Colom</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>Andorra</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.95</Altura>
+    <Edat>28</Edat>
+    <Temporades>5</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Morabanc Andorra</Equip>
+    <foto>https://static.acb.com/img/8/36/22/149152pre6051.jpg</foto>
+    <Autor>amata</Autor>
+  </_24>
+  <_25>
+    <Jugador>David Jelínek</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>Rep. Checa</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.94</Altura>
+    <Edat>29</Edat>
+    <Temporades>4</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Morabanc Andorra</Equip>
+    <foto>https://static.acb.com/img/19/24/55/148798pre6057.jpg</foto>
+    <Autor>amata</Autor>
+  </_25>
+  <_30>
+    <Jugador>Jeremy Senglin</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>EE.UU.</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>1.88</Altura>
+    <Edat>25</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Morabanc Andorra</Equip>
+    <foto>https://static.acb.com/img/0/21/34/149191pre6063.jpg</foto>
+    <Autor>amata</Autor>
+  </_30>
+  <_44>
+    <Jugador>Dejan Musli</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Serbia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.13</Altura>
+    <Edat>29</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Morabanc Andorra</Equip>
+    <foto>https://static.acb.com/img/32/b/39/148900pre6072.jpg</foto>
+    <Autor>amata</Autor>
+  </_44>
+  <_35>
+    <Jugador>Alexis Bartolomé</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>Andorra</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.99</Altura>
+    <Edat>21</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Morabanc Andorra</Equip>
+    <foto>https://www.acb.com/Images/Web/silueta2.gif</foto>
+    <Autor>amata</Autor>
+  </_35>
+  <_36>
+    <Jugador>Raimon Carrasco</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.89</Altura>
+    <Edat>20</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Morabanc Andorra</Equip>
+    <foto>https://www.acb.com/Images/Web/silueta2.gif</foto>
+    <Autor>amata</Autor>
+  </_36>
+  <_0>
+    <Jugador>BJ Mullens</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Reino Unido</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.13</Altura>
+    <Edat>30</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Movistar Estudiantes</Equip>
+    <foto>https://static.acb.com/img/63/3e/60/215706pre23394.jpg</foto>
+    <Autor>mserravinyals</Autor>
+  </_0>
+  <_1>
+    <Jugador>Phil Pressey</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>EE.UU.</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>1.8</Altura>
+    <Edat>29</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Movistar Estudiantes</Equip>
+    <foto>https://static.acb.com/img/34/5f/2f/164148pre8081.jpg</foto>
+    <Autor>mserravinyals</Autor>
+  </_1>
+  <_2>
+    <Jugador>N. Dangubic</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>Serbia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.04</Altura>
+    <Edat>27</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Movistar Estudiantes</Equip>
+    <foto>https://static.acb.com/img/11/3f/15/164013pre8087.jpg</foto>
+    <Autor>mserravinyals</Autor>
+  </_2>
+  <_3>
+    <Jugador>Juan Palacios</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.03</Altura>
+    <Edat>34</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Movistar Estudiantes</Equip>
+    <foto>https://static.acb.com/img/38/4f/4e/163797pre8093.jpg</foto>
+    <Autor>mserravinyals</Autor>
+  </_3>
+  <_4>
+    <Jugador>Khadim Sow</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>Senegal</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.1</Altura>
+    <Edat>20</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Movistar Estudiantes</Equip>
+    <foto>https://static.acb.com/img/29/4b/2a/163902pre8099.jpg</foto>
+    <Autor>mserravinyals</Autor>
+  </_4>
+  <_5>
+    <Jugador>Adams Sola</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.93</Altura>
+    <Edat>19</Edat>
+    <Temporades>4</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Movistar Estudiantes</Equip>
+    <foto>https://static.acb.com/img/57/3f/23/162951pre8105.jpg</foto>
+    <Autor>mserravinyals</Autor>
+  </_5>
+  <_8>
+    <Jugador>Edwin Jackson</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais />
+    <Llicencia />
+    <Altura>1.9</Altura>
+    <Edat>30</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Movistar Estudiantes</Equip>
+    <foto>https://static.acb.com/img/e/1c/57/213987pre22713.jpg</foto>
+    <Autor>mserravinyals</Autor>
+  </_8>
+  <_9>
+    <Jugador>Edgar Vicedo</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.03</Altura>
+    <Edat>25</Edat>
+    <Temporades>8</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Movistar Estudiantes</Equip>
+    <foto>https://static.acb.com/img/6/e/58/163302pre8117.jpg</foto>
+    <Autor>mserravinyals</Autor>
+  </_9>
+  <_13>
+    <Jugador>Duje Dukan</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>Croacia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.08</Altura>
+    <Edat>28</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Movistar Estudiantes</Equip>
+    <foto>https://static.acb.com/img/29/23/12/163260pre8123.jpg</foto>
+    <Autor>mserravinyals</Autor>
+  </_13>
+  <_23>
+    <Jugador>Phil Scrubb</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>Reino Unido</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.94</Altura>
+    <Edat>27</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Movistar Estudiantes</Equip>
+    <foto>https://static.acb.com/img/59/5c/2e/164193pre8129.jpg</foto>
+    <Autor>mserravinyals</Autor>
+  </_23>
+  <_44>
+    <Jugador>Aleksa Avramovic</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>Serbia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.92</Altura>
+    <Edat>25</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Movistar Estudiantes</Equip>
+    <foto>https://static.acb.com/img/55/5b/3f/195166pre16897.jpg</foto>
+    <Autor>mserravinyals</Autor>
+  </_44>
+  <_77>
+    <Jugador>Víctor Arteaga</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.12</Altura>
+    <Edat>27</Edat>
+    <Temporades>4</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Movistar Estudiantes</Equip>
+    <foto>https://static.acb.com/img/4a/2c/57/164322pre8135.jpg</foto>
+    <Autor>mserravinyals</Autor>
+  </_77>
+  <_24>
+    <Jugador>Nacho Arroyo</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>Chile</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>1.87</Altura>
+    <Edat>20</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Movistar Estudiantes</Equip>
+    <foto>https://static.acb.com/img/32/15/36/163572pre9033.jpg</foto>
+    <Autor>mserravinyals</Autor>
+  </_24>
+  <_33>
+    <Jugador>Dovydas Giedraitis</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>Lituania</Pais>
+    <Llicencia />
+    <Altura>1.93</Altura>
+    <Edat>19</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Movistar Estudiantes</Equip>
+    <foto>https://static.acb.com/img/37/49/0/163149pre8955.jpg</foto>
+    <Autor>mserravinyals</Autor>
+  </_33>
+  <_5>
+    <Jugador>Stan Okoye</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>Nigeria</Pais>
+    <Llicencia>COT</Llicencia>
+    <Altura>1.98</Altura>
+    <Edat>29</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Herbalife Gran Canaria</Equip>
+    <foto>https://static.acb.com/img/27/5f/5e/162744pre7937.jpg</foto>
+    <Autor>sperez</Autor>
+  </_5>
+  <_9>
+    <Jugador>Ioannis Bourousis</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Grecia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.1</Altura>
+    <Edat>36</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Herbalife Gran Canaria</Equip>
+    <foto>https://static.acb.com/img/1f/2f/51/162693pre7931.jpg</foto>
+    <Autor>sperez</Autor>
+  </_9>
+  <_10>
+    <Jugador>Omar Cook</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>Montenegro</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.86</Altura>
+    <Edat>38</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Herbalife Gran Canaria</Equip>
+    <foto>https://static.acb.com/img/2/13/42/153981pre6933.jpg</foto>
+    <Autor>sperez</Autor>
+  </_10>
+  <_14>
+    <Jugador>John Shurna</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>Lituania</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.04</Altura>
+    <Edat>30</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Herbalife Gran Canaria</Equip>
+    <foto>https://static.acb.com/img/18/54/5e/153846pre6954.jpg</foto>
+    <Autor>sperez</Autor>
+  </_14>
+  <_17>
+    <Jugador>Fabio Santana</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.88</Altura>
+    <Edat>27</Edat>
+    <Temporades>5</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Herbalife Gran Canaria</Equip>
+    <foto>https://static.acb.com/img/3f/52/62/153789pre6960.jpg</foto>
+    <Autor>sperez</Autor>
+  </_17>
+  <_21>
+    <Jugador>Oriol Paulí</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.01</Altura>
+    <Edat>25</Edat>
+    <Temporades>6</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Herbalife Gran Canaria</Equip>
+    <foto>https://static.acb.com/img/49/2/3b/154020pre6924.jpg</foto>
+    <Autor>sperez</Autor>
+  </_21>
+  <_22>
+    <Jugador>Xavi Rabaseda</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.96</Altura>
+    <Edat>31</Edat>
+    <Temporades>5</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Herbalife Gran Canaria</Equip>
+    <foto>https://static.acb.com/img/13/39/34/162792pre7916.jpg</foto>
+    <Autor>sperez</Autor>
+  </_22>
+  <_23>
+    <Jugador>Beqa Burjanadze</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>Georgia</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.01</Altura>
+    <Edat>26</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Herbalife Gran Canaria</Equip>
+    <foto>https://static.acb.com/img/28/19/2a/153702pre6972.jpg</foto>
+    <Autor>sperez</Autor>
+  </_23>
+  <_24>
+    <Jugador>Matt Costello</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>EE.UU.</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>2.08</Altura>
+    <Edat>26</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Herbalife Gran Canaria</Equip>
+    <foto>https://static.acb.com/img/2c/41/0/153918pre6945.jpg</foto>
+    <Autor>sperez</Autor>
+  </_24>
+  <_33>
+    <Jugador>Javier Beirán</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2</Altura>
+    <Edat>32</Edat>
+    <Temporades>5</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Herbalife Gran Canaria</Equip>
+    <foto>https://static.acb.com/img/f/24/5/162882pre7925.jpg</foto>
+    <Autor>sperez</Autor>
+  </_33>
+  <_34>
+    <Jugador>Demonte Harper</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>EE.UU.</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>1.93</Altura>
+    <Edat>30</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Herbalife Gran Canaria</Equip>
+    <foto>https://static.acb.com/img/41/8/52/153747pre6966.jpg</foto>
+    <Autor>sperez</Autor>
+  </_34>
+  <_2>
+    <Jugador>Olek Balcerowski</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Polonia</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.16</Altura>
+    <Edat>19</Edat>
+    <Temporades>4</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Herbalife Gran Canaria</Equip>
+    <foto>https://static.acb.com/img/47/5a/57/165117pre7946.jpg</foto>
+    <Autor>sperez</Autor>
+  </_2>
+  <_4>
+    <Jugador>Jovan Kljajic</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>Montenegro</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.95</Altura>
+    <Edat>18</Edat>
+    <Temporades>3</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Herbalife Gran Canaria</Equip>
+    <foto>https://static.acb.com/img/36/61/5d/46092pre11332.jpg</foto>
+    <Autor>sperez</Autor>
+  </_4>
+  <_18>
+    <Jugador>Khalifa Diop</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Senegal</Pais>
+    <Llicencia>COT</Llicencia>
+    <Altura>2.1</Altura>
+    <Edat>18</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Herbalife Gran Canaria</Equip>
+    <foto>https://www.acb.com/Images/Web/silueta2.gif</foto>
+    <Autor>sperez</Autor>
+  </_18>
+  <_5>
+    <Jugador>Miguel González</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.03</Altura>
+    <Edat>21</Edat>
+    <Temporades>3</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>kirolbet Baskonia</Equip>
+    <foto>http://static.acb.com/img/1b/40/a/162114pre8847.jpg</foto>
+    <Autor>vguillen</Autor>
+  </_5>
+  <_6>
+    <Jugador>Semaj Christon</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>EE.UU.</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>1.9</Altura>
+    <Edat>27</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>kirolbet Baskonia</Equip>
+    <foto>http://static.acb.com/img/35/2a/32/213465pre22578.jpg</foto>
+    <Autor>vguillen</Autor>
+  </_6>
+  <_7>
+    <Jugador>Pierria Henry</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>EE.UU.</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>1.96</Altura>
+    <Edat>27</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>kirolbet Baskonia</Equip>
+    <foto>http://static.acb.com/img/3a/2e/20/162291pre7982.jpg</foto>
+    <Autor>vguillen</Autor>
+  </_7>
+  <_11>
+    <Jugador>Matt Janning</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>Georgia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.93</Altura>
+    <Edat>31</Edat>
+    <Temporades>3</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>kirolbet Baskonia</Equip>
+    <foto>http://static.acb.com/img/63/5c/f/161997pre7991.jpg</foto>
+    <Autor>vguillen</Autor>
+  </_11>
+  <_12>
+    <Jugador>Ilimane Diop</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.1</Altura>
+    <Edat>25</Edat>
+    <Temporades>7</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>kirolbet Baskonia</Equip>
+    <foto>http://static.acb.com/img/32/4f/48/24353pre8012.jpg</foto>
+    <Autor>vguillen</Autor>
+  </_12>
+  <_17>
+    <Jugador>Sergi García</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.93</Altura>
+    <Edat>23</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>kirolbet Baskonia</Equip>
+    <foto>http://static.acb.com/img/34/2/2/193303pre16333.jpg</foto>
+    <Autor>vguillen</Autor>
+  </_17>
+  <_19>
+    <Jugador>Youssoupha Fall</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Francia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.21</Altura>
+    <Edat>25</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>kirolbet Baskonia</Equip>
+    <foto>http://static.acb.com/img/d/5f/5c/162606pre8024.jpg</foto>
+    <Autor>vguillen</Autor>
+  </_19>
+  <_23>
+    <Jugador>Tornike Shengelia</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>Georgia</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.06</Altura>
+    <Edat>28</Edat>
+    <Temporades>6</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>kirolbet Baskonia</Equip>
+    <foto>http://static.acb.com/img/41/2d/13/162480pre8036.jpg</foto>
+    <Autor>vguillen</Autor>
+  </_23>
+  <_30>
+    <Jugador>Zoran Dragic</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>Eslovenia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.96</Altura>
+    <Edat>30</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>kirolbet Baskonia</Equip>
+    <foto>http://static.acb.com/img/1e/62/2f/213507pre22584.jpg</foto>
+    <Autor>vguillen</Autor>
+  </_30>
+  <_31>
+    <Jugador>Shavon Shields</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>Dinamarca</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.01</Altura>
+    <Edat>25</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>kirolbet Baskonia</Equip>
+    <foto>http://static.acb.com/img/15/5b/35/162408pre8048.jpg</foto>
+    <Autor>vguillen</Autor>
+  </_31>
+  <_33>
+    <Jugador>Achille Polonara</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>Italia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.05</Altura>
+    <Edat>28</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>kirolbet Baskonia</Equip>
+    <foto>http://static.acb.com/img/5a/46/3a/161607pre8054.jpg</foto>
+    <Autor>vguillen</Autor>
+  </_33>
+  <_50>
+    <Jugador>Micheal Eric</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Nigeria</Pais>
+    <Llicencia>COT</Llicencia>
+    <Altura>2.1</Altura>
+    <Edat>31</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>kirolbet Baskonia</Equip>
+    <foto>http://static.acb.com/img/3b/5a/58/162045pre8060.jpg</foto>
+    <Autor>vguillen</Autor>
+  </_50>
+  <_1>
+    <Jugador>Álex Urtasun</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.93</Altura>
+    <Edat>36</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Montakit Fuenlabrada</Equip>
+    <foto>https://static.acb.com/img/12/34/a/177132pre11865.jpg</foto>
+    <Autor>jrubio</Autor>
+  </_1>
+  <_3>
+    <Jugador>Karvel Anderson</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>EE.UU.</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>1.88</Altura>
+    <Edat>28</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Montakit Fuenlabrada</Equip>
+    <foto>https://static.acb.com/img/2d/43/41/146021pre5968.jpg</foto>
+    <Autor>jrubio</Autor>
+  </_3>
+  <_4>
+    <Jugador>V. Bobrov</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>Ucrania</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.03</Altura>
+    <Edat>27</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Montakit Fuenlabrada</Equip>
+    <foto>https://static.acb.com/img/47/20/3c/146426pre5929.jpg</foto>
+    <Autor>jrubio</Autor>
+  </_4>
+  <_5>
+    <Jugador>Nico Richotti</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>Italia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.83</Altura>
+    <Edat>33</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Montakit Fuenlabrada</Equip>
+    <foto>https://static.acb.com/img/60/51/21/169785pre9906.jpg</foto>
+    <Autor>jrubio</Autor>
+  </_5>
+  <_7>
+    <Jugador>Tomás Bellas</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.85</Altura>
+    <Edat>32</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Montakit Fuenlabrada</Equip>
+    <foto>https://static.acb.com/img/3/3a/38/146366pre5935.jpg</foto>
+    <Autor>jrubio</Autor>
+  </_7>
+  <_11>
+    <Jugador>Anthony Brown</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>EE.UU.</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>2.01</Altura>
+    <Edat>27</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Montakit Fuenlabrada</Equip>
+    <foto>https://static.acb.com/img/2d/1c/53/201090pre19311.jpg</foto>
+    <Autor>jrubio</Autor>
+  </_11>
+  <_12>
+    <Jugador>Osas Ehigiator</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.07</Altura>
+    <Edat>20</Edat>
+    <Temporades>5</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Montakit Fuenlabrada</Equip>
+    <foto>https://static.acb.com/img/11/54/39/146228pre5950.jpg</foto>
+    <Autor>jrubio</Autor>
+  </_12>
+  <_21>
+    <Jugador>Pierre A. Gillet</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>Bélgica</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.01</Altura>
+    <Edat>29</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Montakit Fuenlabrada</Equip>
+    <foto>https://static.acb.com/img/51/24/1/146300pre5941.jpg</foto>
+    <Autor>jrubio</Autor>
+  </_21>
+  <_27>
+    <Jugador>Marc García</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.97</Altura>
+    <Edat>24</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Montakit Fuenlabrada</Equip>
+    <foto>https://static.acb.com/img/4a/19/4c/146105pre5962.jpg</foto>
+    <Autor>jrubio</Autor>
+  </_27>
+  <_31>
+    <Jugador>Christian Eyenga</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>República Democrática del Congo</Pais>
+    <Llicencia>COT</Llicencia>
+    <Altura>1.98</Altura>
+    <Edat>30</Edat>
+    <Temporades>3</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Montakit Fuenlabrada</Equip>
+    <foto>https://static.acb.com/img/6/12/4c/145685pre5998.jpg</foto>
+    <Autor>jrubio</Autor>
+  </_31>
+  <_55>
+    <Jugador>E. Mockevicius</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Lituania</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.08</Altura>
+    <Edat>27</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Montakit Fuenlabrada</Equip>
+    <foto>https://static.acb.com/img/54/22/4d/145832pre5986.jpg</foto>
+    <Autor>jrubio</Autor>
+  </_55>
+  <_1>
+    <Jugador>Gabriel Lundberg</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>Dinamarca</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.93</Altura>
+    <Edat>25</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Iberostar Tenerife</Equip>
+    <foto>https://static.acb.com/img/4/2f/47/157485pre7943.jpg</foto>
+    <Autor>macervero</Autor>
+  </_1>
+  <_6>
+    <Jugador>Dino Radoncic</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>Montenegro</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.02</Altura>
+    <Edat>21</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Iberostar Tenerife</Equip>
+    <foto>https://static.acb.com/img/50/27/26/213822pre22692.jpg</foto>
+    <Autor>macervero</Autor>
+  </_6>
+  <_9>
+    <Jugador>M. Huertas</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>Italia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.91</Altura>
+    <Edat>36</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Iberostar Tenerife</Equip>
+    <foto>https://static.acb.com/img/44/2b/57/165201pre8072.jpg</foto>
+    <Autor>macervero</Autor>
+  </_9>
+  <_10>
+    <Jugador>Sasu Salin</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>Finlandia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.9</Altura>
+    <Edat>28</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Iberostar Tenerife</Equip>
+    <foto>https://static.acb.com/img/57/1e/32/150037pre6087.jpg</foto>
+    <Autor>macervero</Autor>
+  </_10>
+  <_11>
+    <Jugador>Dani Díez</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.01</Altura>
+    <Edat>27</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Iberostar Tenerife</Equip>
+    <foto>https://static.acb.com/img/2b/4d/52/149605pre6090.jpg</foto>
+    <Autor>macervero</Autor>
+  </_11>
+  <_19>
+    <Jugador>Giorgi Shermadini</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Georgia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.17</Altura>
+    <Edat>31</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Iberostar Tenerife</Equip>
+    <foto>https://static.acb.com/img/8/3c/4e/149791pre6132.jpg</foto>
+    <Autor>macervero</Autor>
+  </_19>
+  <_25>
+    <Jugador>Álex López</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.89</Altura>
+    <Edat>28</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Iberostar Tenerife</Equip>
+    <foto>https://static.acb.com/img/42/51/56/149524pre6102.jpg</foto>
+    <Autor>macervero</Autor>
+  </_25>
+  <_30>
+    <Jugador>Aaron White</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>EE.UU.</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>2.06</Altura>
+    <Edat>27</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Iberostar Tenerife</Equip>
+    <foto>https://static.acb.com/img/4d/57/26/201204pre18270.jpg</foto>
+    <Autor>macervero</Autor>
+  </_30>
+  <_31>
+    <Jugador>Georgios Bogris</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Grecia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.1</Altura>
+    <Edat>31</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Iberostar Tenerife</Equip>
+    <foto>https://static.acb.com/img/14/1/29/193417pre16433.jpg</foto>
+    <Autor>macervero</Autor>
+  </_31>
+  <_35>
+    <Jugador>Fran Guerra</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.14</Altura>
+    <Edat>27</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Iberostar Tenerife</Equip>
+    <foto>https://static.acb.com/img/23/19/28/149710pre6117.jpg</foto>
+    <Autor>macervero</Autor>
+  </_35>
+  <_93>
+    <Jugador>Alex Suárez</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.06</Altura>
+    <Edat>26</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Iberostar Tenerife</Equip>
+    <foto>https://static.acb.com/img/30/61/39/149560pre6120.jpg</foto>
+    <Autor>macervero</Autor>
+  </_93>
+  <_94>
+    <Jugador>Lahaou Konate</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>Francia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.96</Altura>
+    <Edat>28</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Iberostar Tenerife</Equip>
+    <foto>https://static.acb.com/img/0/33/26/174855pre11660.jpg</foto>
+    <Autor>macervero</Autor>
+  </_94>
+  <_91>
+    <Jugador>Alberto Cabrera</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.78</Altura>
+    <Edat>21</Edat>
+    <Temporades>4</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Iberostar Tenerife</Equip>
+    <foto>https://static.acb.com/img/5e/15/b/149422pre9024.jpg</foto>
+    <Autor>macervero</Autor>
+  </_91>
+  <_1>
+    <Jugador>Fabien Causeur</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>Francia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.95</Altura>
+    <Edat>32</Edat>
+    <Temporades>3</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Real Madrid</Equip>
+    <foto>https://static.acb.com/img/c/5a/33/154806pre7230.jpg</foto>
+    <Autor>JMonné</Autor>
+  </_1>
+  <_5>
+    <Jugador>Rudy Fernández</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.96</Altura>
+    <Edat>35</Edat>
+    <Temporades>9</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Real Madrid</Equip>
+    <foto>https://static.acb.com/img/3d/46/4d/155535pre7203.jpg</foto>
+    <Autor>JMonné</Autor>
+  </_5>
+  <_7>
+    <Jugador>Facu Campazzo</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.81</Altura>
+    <Edat>29</Edat>
+    <Temporades>4</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Real Madrid</Equip>
+    <foto>https://static.acb.com/img/62/44/33/154869pre7248.jpg</foto>
+    <Autor>JMonné</Autor>
+  </_7>
+  <_8>
+    <Jugador>Nico Laprovittola</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>Italia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.9</Altura>
+    <Edat>30</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Real Madrid</Equip>
+    <foto>https://static.acb.com/img/51/1f/45/155391pre7212.jpg</foto>
+    <Autor>JMonné</Autor>
+  </_8>
+  <_9>
+    <Jugador>Felipe Reyes</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.04</Altura>
+    <Edat>40</Edat>
+    <Temporades>16</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Real Madrid</Equip>
+    <foto>https://static.acb.com/img/10/4c/1/154998pre7257.jpg</foto>
+    <Autor>JMonné</Autor>
+  </_9>
+  <_14>
+    <Jugador>Gabriel Deck</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>Argentina</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>1.98</Altura>
+    <Edat>25</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Real Madrid</Equip>
+    <foto>https://static.acb.com/img/4f/2a/22/155028pre7275.jpg</foto>
+    <Autor>JMonné</Autor>
+  </_14>
+  <_20>
+    <Jugador>Jaycee Carroll</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>Azerbaijan</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.88</Altura>
+    <Edat>37</Edat>
+    <Temporades>9</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Real Madrid</Equip>
+    <foto>https://static.acb.com/img/33/1f/2e/155109pre7266.jpg</foto>
+    <Autor>JMonné</Autor>
+  </_20>
+  <_22>
+    <Jugador>Edy Tavares</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Cabo Verde</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.2</Altura>
+    <Edat>28</Edat>
+    <Temporades>3</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Real Madrid</Equip>
+    <foto>https://static.acb.com/img/16/1c/1d/156147pre7167.jpg</foto>
+    <Autor>JMonné</Autor>
+  </_22>
+  <_23>
+    <Jugador>Sergio Llull</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.9</Altura>
+    <Edat>32</Edat>
+    <Temporades>14</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Real Madrid</Equip>
+    <foto>https://static.acb.com/img/29/50/61/155646pre7194.jpg</foto>
+    <Autor>JMonné</Autor>
+  </_23>
+  <_33>
+    <Jugador>Trey Thompkins</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>EE.UU.</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>2.08</Altura>
+    <Edat>29</Edat>
+    <Temporades>5</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Real Madrid</Equip>
+    <foto>https://static.acb.com/img/16/10/62/155793pre7185.jpg</foto>
+    <Autor>JMonné</Autor>
+  </_33>
+  <_44>
+    <Jugador>Jeffery Taylor</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>Suecia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.01</Altura>
+    <Edat>30</Edat>
+    <Temporades>5</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Real Madrid</Equip>
+    <foto>https://static.acb.com/img/41/41/13/155178pre7293.jpg</foto>
+    <Autor>JMonné</Autor>
+  </_44>
+  <_50>
+    <Jugador>Salah Mejri</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Túnez</Pais>
+    <Llicencia>COT</Llicencia>
+    <Altura>2.17</Altura>
+    <Edat>33</Edat>
+    <Temporades>3</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Real Madrid</Equip>
+    <foto>https://static.acb.com/img/52/31/4f/177054pre11856.jpg</foto>
+    <Autor>JMonné</Autor>
+  </_50>
+  <_6>
+    <Jugador>Matteo Spagnolo</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>Italia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.92</Altura>
+    <Edat>17</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Real Madrid</Equip>
+    <foto>https://www.acb.com/Images/Web/silueta2.gif</foto>
+    <Autor>JMonné</Autor>
+  </_6>
+  <_16>
+    <Jugador>Usman Garuba</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.01</Altura>
+    <Edat>18</Edat>
+    <Temporades>3</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Real Madrid</Equip>
+    <foto>https://static.acb.com/img/51/58/1b/155832pre7179.jpg</foto>
+    <Autor>JMonné</Autor>
+  </_16>
+  <_17>
+    <Jugador>Mario Nakic</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>Croacia</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.99</Altura>
+    <Edat>18</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Real Madrid</Equip>
+    <foto>https://static.acb.com/img/25/a/18/155286pre7224.jpg</foto>
+    <Autor>JMonné</Autor>
+  </_17>
+  <_35>
+    <Jugador>Boris Tisma</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>Croacia</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.04</Altura>
+    <Edat>18</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Real Madrid</Equip>
+    <foto>https://www.acb.com/Images/Web/silueta2.gif</foto>
+    <Autor>JMonné</Autor>
+  </_35>
+  <_2>
+    <Jugador>J. Rousselle</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>Francia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.91</Altura>
+    <Edat>30</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Retabet Bilbao</Equip>
+    <foto>https://static.acb.com/img/3e/57/5c/150856pre6260.jpg</foto>
+    <Autor>jortiz</Autor>
+  </_2>
+  <_4>
+    <Jugador>Sergio Rodríguez</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.04</Altura>
+    <Edat>26</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Retabet Bilbao</Equip>
+    <foto>https://static.acb.com/img/52/1c/15/150946pre6275.jpg</foto>
+    <Autor>jortiz</Autor>
+  </_4>
+  <_5>
+    <Jugador>Thomas Schreiner</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>Austria</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.95</Altura>
+    <Edat>33</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Retabet Bilbao</Equip>
+    <foto>https://static.acb.com/img/3a/33/6/150988pre6281.jpg</foto>
+    <Autor>jortiz</Autor>
+  </_5>
+  <_7>
+    <Jugador>Tomeu Rigo</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.89</Altura>
+    <Edat>22</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Retabet Bilbao</Equip>
+    <foto>https://static.acb.com/img/4e/5a/28/151039pre6284.jpg</foto>
+    <Autor>jortiz</Autor>
+  </_7>
+  <_8>
+    <Jugador>Iván Cruz</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.08</Altura>
+    <Edat>28</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Retabet Bilbao</Equip>
+    <foto>https://static.acb.com/img/46/4c/16/150742pre6293.jpg</foto>
+    <Autor>jortiz</Autor>
+  </_8>
+  <_10>
+    <Jugador>Rafa Martínez</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.9</Altura>
+    <Edat>38</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Retabet Bilbao</Equip>
+    <foto>https://static.acb.com/img/58/10/41/150889pre6299.jpg</foto>
+    <Autor>jortiz</Autor>
+  </_10>
+  <_12>
+    <Jugador>Ondrej Balvin</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Rep. Checa</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.17</Altura>
+    <Edat>27</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Retabet Bilbao</Equip>
+    <foto>https://static.acb.com/img/13/3b/d/162560pre7832.jpg</foto>
+    <Autor>jortiz</Autor>
+  </_12>
+  <_18>
+    <Jugador>Quentin Serron</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>Bélgica</Pais>
+    <Llicencia />
+    <Altura>1.9</Altura>
+    <Edat>30</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Retabet Bilbao</Equip>
+    <foto>https://www.acb.com/Images/Web/silueta1.gif</foto>
+    <Autor>jortiz</Autor>
+  </_18>
+  <_19>
+    <Jugador>Emir Sulejmanovic</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Finlandia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.04</Altura>
+    <Edat>24</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Retabet Bilbao</Equip>
+    <foto>https://static.acb.com/img/10/5d/4f/150715pre6305.jpg</foto>
+    <Autor>jortiz</Autor>
+  </_19>
+  <_33>
+    <Jugador>Tyler Haws</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais />
+    <Llicencia />
+    <Altura>1.95</Altura>
+    <Edat>28</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Retabet Bilbao</Equip>
+    <foto>https://www.acb.com/Images/Web/silueta1.gif</foto>
+    <Autor>jortiz</Autor>
+  </_33>
+  <_44>
+    <Jugador>Ben Lammers</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>EE.UU.</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>2.08</Altura>
+    <Edat>24</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Retabet Bilbao</Equip>
+    <foto>https://static.acb.com/img/2f/44/59/150682pre6308.jpg</foto>
+    <Autor>jortiz</Autor>
+  </_44>
+  <_98>
+    <Jugador>Arnoldas Kulboka</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>Lituania</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.08</Altura>
+    <Edat>22</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Retabet Bilbao</Equip>
+    <foto>https://static.acb.com/img/4d/31/2f/150580pre6323.jpg</foto>
+    <Autor>jortiz</Autor>
+  </_98>
+  <_9>
+    <Jugador>Diego Rodríguez</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.95</Altura>
+    <Edat>17</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Retabet Bilbao</Equip>
+    <foto>https://www.acb.com/Images/Web/silueta1.gif</foto>
+    <Autor>jortiz</Autor>
+  </_9>
+  <_11>
+    <Jugador>Miguel Ruiz</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.88</Altura>
+    <Edat>18</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Retabet Bilbao</Equip>
+    <foto>https://www.acb.com/Images/Web/silueta1.gif</foto>
+    <Autor>jortiz</Autor>
+  </_11>
+  <_5>
+    <Jugador>Earl Clark</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>EE.UU.</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>2.08</Altura>
+    <Edat>32</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>SAN PABLO BURGOS</Equip>
+    <foto>https://static.acb.com/img/29/20/2b/160674pre8153.jpg</foto>
+    <Autor>pramirez</Autor>
+  </_5>
+  <_6>
+    <Jugador>Bruno Fitipaldo</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>Italia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.83</Altura>
+    <Edat>28</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>SAN PABLO BURGOS</Equip>
+    <foto>https://static.acb.com/img/33/11/1/160623pre8159.jpg</foto>
+    <Autor>pramirez</Autor>
+  </_6>
+  <_8>
+    <Jugador>Vitor Benite</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>Italia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.94</Altura>
+    <Edat>30</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>SAN PABLO BURGOS</Equip>
+    <foto>https://static.acb.com/img/e/20/44/161562pre8165.jpg</foto>
+    <Autor>pramirez</Autor>
+  </_8>
+  <_9>
+    <Jugador>Álex Barrera</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.96</Altura>
+    <Edat>28</Edat>
+    <Temporades>3</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>SAN PABLO BURGOS</Equip>
+    <foto>https://static.acb.com/img/56/2f/3e/160440pre8171.jpg</foto>
+    <Autor>pramirez</Autor>
+  </_9>
+  <_10>
+    <Jugador>Javier Vega</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.05</Altura>
+    <Edat>32</Edat>
+    <Temporades>3</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>SAN PABLO BURGOS</Equip>
+    <foto>https://static.acb.com/img/c/b/44/161139pre8177.jpg</foto>
+    <Autor>pramirez</Autor>
+  </_10>
+  <_11>
+    <Jugador>Miquel Salvó</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.05</Altura>
+    <Edat>25</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>SAN PABLO BURGOS</Equip>
+    <foto>https://static.acb.com/img/11/57/26/161373pre8183.jpg</foto>
+    <Autor>pramirez</Autor>
+  </_11>
+  <_12>
+    <Jugador>Thad McFadden</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>Georgia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.88</Altura>
+    <Edat>32</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>SAN PABLO BURGOS</Equip>
+    <foto>https://static.acb.com/img/5a/44/1b/161433pre8189.jpg</foto>
+    <Autor>pramirez</Autor>
+  </_12>
+  <_14>
+    <Jugador>Jasiel Rivero</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>Cuba</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>2.06</Altura>
+    <Edat>26</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>SAN PABLO BURGOS</Equip>
+    <foto>https://static.acb.com/img/5e/1/1b/161088pre8195.jpg</foto>
+    <Autor>pramirez</Autor>
+  </_14>
+  <_20>
+    <Jugador>Ferran Bassas</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.81</Altura>
+    <Edat>28</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>SAN PABLO BURGOS</Equip>
+    <foto>https://static.acb.com/img/59/54/46/160785pre8201.jpg</foto>
+    <Autor>pramirez</Autor>
+  </_20>
+  <_32>
+    <Jugador>Augusto Lima</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.08</Altura>
+    <Edat>28</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>SAN PABLO BURGOS</Equip>
+    <foto>https://static.acb.com/img/28/5b/58/160524pre8216.jpg</foto>
+    <Autor>pramirez</Autor>
+  </_32>
+  <_88>
+    <Jugador>Dragan Apic</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>Serbia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.06</Altura>
+    <Edat>24</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>SAN PABLO BURGOS</Equip>
+    <foto>https://static.acb.com/img/45/62/2f/205386pre19296.jpg</foto>
+    <Autor>pramirez</Autor>
+  </_88>
+  <_7>
+    <Jugador>Kareem Queeley</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>Reino Unido</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.93</Altura>
+    <Edat>19</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>SAN PABLO BURGOS</Equip>
+    <foto>https://static.acb.com/img/27/2e/5a/161256pre9766.jpg</foto>
+    <Autor>pramirez</Autor>
+  </_7>
+  <_7>
+    <Jugador>Marc García</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.88</Altura>
+    <Edat>19</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>SAN PABLO BURGOS</Equip>
+    <foto>https://static.acb.com/img/43/15/23/189166pre15283.jpg</foto>
+    <Autor>pramirez</Autor>
+  </_7>
+  <_2>
+    <Jugador>Marques Townes</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>República Dominicana</Pais>
+    <Llicencia>COT</Llicencia>
+    <Altura>1.93</Altura>
+    <Edat>24</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>UCAM MURCIA C.B</Equip>
+    <foto>http://static.acb.com/img/30/4a/38/201489pre18357.jpg</foto>
+    <Autor>cristina casas</Autor>
+  </_2>
+  <_3>
+    <Jugador>Jarell Eddie</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>EE.UU.</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>2.01</Altura>
+    <Edat>28</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>UCAM MURCIA C.B</Equip>
+    <foto>http://static.acb.com/img/39/3c/1b/201387pre18273.jpg</foto>
+    <Autor>cristina casas</Autor>
+  </_3>
+  <_4>
+    <Jugador>Nikola Radicevic</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>Serbia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.97</Altura>
+    <Edat>26</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>UCAM MURCIA C.B</Equip>
+    <foto>http://static.acb.com/img/1f/a/61/213597pre22599.jpg</foto>
+    <Autor>cristina casas</Autor>
+  </_4>
+  <_5>
+    <Jugador>Rafa Luz</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.88</Altura>
+    <Edat>28</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>UCAM MURCIA C.B</Equip>
+    <foto>http://static.acb.com/img/2b/34/a/201513pre18282.jpg</foto>
+    <Autor>cristina casas</Autor>
+  </_5>
+  <_7>
+    <Jugador>G. Larentzakis</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>Grecia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.96</Altura>
+    <Edat>26</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>UCAM MURCIA C.B</Equip>
+    <foto>http://static.acb.com/img/5/5a/2a/201345pre18291.jpg</foto>
+    <Autor>cristina casas</Autor>
+  </_7>
+  <_9>
+    <Jugador>Rinalds Malmanis</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>Letonia</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.05</Altura>
+    <Edat>24</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>UCAM MURCIA C.B</Equip>
+    <foto>http://static.acb.com/img/22/2c/2b/213636pre22605.jpg</foto>
+    <Autor>cristina casas</Autor>
+  </_9>
+  <_15>
+    <Jugador>Emanuel Cate</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>Rumanía</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.04</Altura>
+    <Edat>22</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>UCAM MURCIA C.B</Equip>
+    <foto>http://static.acb.com/img/5d/26/2c/201321pre18303.jpg</foto>
+    <Autor>cristina casas</Autor>
+  </_15>
+  <_16>
+    <Jugador>Edu Durán</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.91</Altura>
+    <Edat>29</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>UCAM MURCIA C.B</Equip>
+    <foto>http://static.acb.com/img/15/1c/1/201297pre18309.jpg</foto>
+    <Autor>cristina casas</Autor>
+  </_16>
+  <_22>
+    <Jugador>Kyle Hunt</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Jamaica</Pais>
+    <Llicencia>COT</Llicencia>
+    <Altura>2.08</Altura>
+    <Edat>30</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>UCAM MURCIA C.B</Equip>
+    <foto>http://static.acb.com/img/2f/58/40/201444pre18315.jpg</foto>
+    <Autor>cristina casas</Autor>
+  </_22>
+  <_24>
+    <Jugador>Delroy James</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>Guayana</Pais>
+    <Llicencia>COT</Llicencia>
+    <Altura>2.03</Altura>
+    <Edat>33</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>UCAM MURCIA C.B</Equip>
+    <foto>http://static.acb.com/img/34/38/3c/213549pre22617.jpg</foto>
+    <Autor>cristina casas</Autor>
+  </_24>
+  <_27>
+    <Jugador>Sadiel Rojas</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>República Dominicana</Pais>
+    <Llicencia>COT</Llicencia>
+    <Altura>1.98</Altura>
+    <Edat>30</Edat>
+    <Temporades>6</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>UCAM MURCIA C.B</Equip>
+    <foto>http://static.acb.com/img/40/33/54/201540pre18324.jpg</foto>
+    <Autor>cristina casas</Autor>
+  </_27>
+  <_31>
+    <Jugador>Askia Booker</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>EE.UU.</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>1.86</Altura>
+    <Edat>26</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>UCAM MURCIA C.B</Equip>
+    <foto>http://static.acb.com/img/3d/45/5c/201222pre18330.jpg</foto>
+    <Autor>cristina casas</Autor>
+  </_31>
+  <_9>
+    <Jugador>Ismael Corraliza</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.92</Altura>
+    <Edat>20</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>UCAM MURCIA C.B</Equip>
+    <foto>http://static.acb.com/img/3f/23/5a/201366pre18351.jpg</foto>
+    <Autor>cristina casas</Autor>
+  </_9>
+  <_2>
+    <Jugador>Deon Thompson</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>Costa de Marfil</Pais>
+    <Llicencia>COT</Llicencia>
+    <Altura>2.03</Altura>
+    <Edat>31</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>UNICAJA</Equip>
+    <foto>https://static.acb.com/img/0/1f/4/164684pre8225.jpg</foto>
+    <Autor>jmartin</Autor>
+  </_2>
+  <_3>
+    <Jugador>Jaime Fernández</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.86</Altura>
+    <Edat>26</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>UNICAJA</Equip>
+    <foto>https://static.acb.com/img/5a/2/e/164831pre8231.jpg</foto>
+    <Autor>jmartin</Autor>
+  </_3>
+  <_8>
+    <Jugador>Darío Brizuela</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.88</Altura>
+    <Edat>25</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>UNICAJA</Equip>
+    <foto>https://static.acb.com/img/35/52/18/190954pre15970.jpg</foto>
+    <Autor>jmartin</Autor>
+  </_8>
+  <_9>
+    <Jugador>Alberto Díaz</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.88</Altura>
+    <Edat>26</Edat>
+    <Temporades>7</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>UNICAJA</Equip>
+    <foto>https://static.acb.com/img/4a/33/19/164441pre8255.jpg</foto>
+    <Autor>jmartin</Autor>
+  </_9>
+  <_15>
+    <Jugador>Frank Elegar</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Guayana</Pais>
+    <Llicencia>COT</Llicencia>
+    <Altura>2.08</Altura>
+    <Edat>33</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>UNICAJA</Equip>
+    <foto>https://static.acb.com/img/1d/d/2f/164756pre8267.jpg</foto>
+    <Autor>jmartin</Autor>
+  </_15>
+  <_19>
+    <Jugador>Marko Simonovic</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>Serbia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.03</Altura>
+    <Edat>33</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>UNICAJA</Equip>
+    <foto>https://static.acb.com/img/45/2/3d/213891pre22704.jpg</foto>
+    <Autor>jmartin</Autor>
+  </_19>
+  <_21>
+    <Jugador>Adam Waczynski</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>Polonia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.99</Altura>
+    <Edat>30</Edat>
+    <Temporades>4</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>UNICAJA</Equip>
+    <foto>https://static.acb.com/img/2b/59/45/164384pre8273.jpg</foto>
+    <Autor>jmartin</Autor>
+  </_21>
+  <_22>
+    <Jugador>Melvin Ejim</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>Nigeria</Pais>
+    <Llicencia>COT</Llicencia>
+    <Altura>2.01</Altura>
+    <Edat>29</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>UNICAJA</Equip>
+    <foto>https://static.acb.com/img/2d/3/34/164960pre8279.jpg</foto>
+    <Autor>jmartin</Autor>
+  </_22>
+  <_32>
+    <Jugador>Rubén Guerrero</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.13</Altura>
+    <Edat>24</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>UNICAJA</Equip>
+    <foto>https://static.acb.com/img/4/12/4d/165059pre8285.jpg</foto>
+    <Autor>jmartin</Autor>
+  </_32>
+  <_52>
+    <Jugador>Volodymyr Gerun</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Ucrania</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.08</Altura>
+    <Edat>26</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>UNICAJA</Equip>
+    <foto>https://static.acb.com/img/12/4b/4c/165089pre8297.jpg</foto>
+    <Autor>jmartin</Autor>
+  </_52>
+  <_83>
+    <Jugador>Axel Bouteille</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>Francia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.01</Altura>
+    <Edat>25</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>UNICAJA</Equip>
+    <foto>https://static.acb.com/img/5f/5c/43/213879pre22920.jpg</foto>
+    <Autor>jmartin</Autor>
+  </_83>
+  <_99>
+    <Jugador>Gal Mekel</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>Polonia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.91</Altura>
+    <Edat>32</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>UNICAJA</Equip>
+    <foto>https://static.acb.com/img/25/3/47/217068pre23745.jpg</foto>
+    <Autor>jmartin</Autor>
+  </_99>
+  <_0>
+    <Jugador>Rafael Santos</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.85</Altura>
+    <Edat>16</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>UNICAJA</Equip>
+    <foto>https://www.acb.com/Images/Web/silueta2.gif</foto>
+    <Autor>jmartin</Autor>
+  </_0>
+  <_10>
+    <Jugador>J. Godspower</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2</Altura>
+    <Edat>17</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>UNICAJA</Equip>
+    <foto>https://www.acb.com/Images/Web/silueta2.gif</foto>
+    <Autor>jmartin</Autor>
+  </_10>
+  <_16>
+    <Jugador>Pablo Sánchez</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.92</Altura>
+    <Edat>17</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>UNICAJA</Equip>
+    <foto>https://www.acb.com/Images/Web/silueta2.gif</foto>
+    <Autor>jmartin</Autor>
+  </_16>
+  <_28>
+    <Jugador>Ismael Tamba</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.99</Altura>
+    <Edat>18</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>UNICAJA</Equip>
+    <foto>https://www.acb.com/Images/Web/silueta2.gif</foto>
+    <Autor>jmartin</Autor>
+  </_28>
+  <_1>
+    <Jugador>Quino Colom</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.88</Altura>
+    <Edat>31</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>VALENCIA BASKET</Equip>
+    <foto>http://static.acb.com/img/5a/2a/21/157212pre7422.jpg</foto>
+    <Autor>fgarci93</Autor>
+  </_1>
+  <_2>
+    <Jugador>Vanja Marinkovic</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>Serbia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.98</Altura>
+    <Edat>23</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>VALENCIA BASKET</Equip>
+    <foto>http://static.acb.com/img/2a/1d/7/157287pre7395.jpg</foto>
+    <Autor>fgarci93</Autor>
+  </_2>
+  <_5>
+    <Jugador>Maurice Ndour</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>Senegal</Pais>
+    <Llicencia>COT</Llicencia>
+    <Altura>2.06</Altura>
+    <Edat>27</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>VALENCIA BASKET</Equip>
+    <foto>https://www.acb.com/club/plantilla-lista/id/13/temporada_id/2019</foto>
+    <Autor>fgarci93</Autor>
+  </_5>
+  <_6>
+    <Jugador>Alberto Abalde</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.02</Altura>
+    <Edat>24</Edat>
+    <Temporades>3</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>VALENCIA BASKET</Equip>
+    <foto>https://www.acb.com/club/plantilla-lista/id/13/temporada_id/2019</foto>
+    <Autor>fgarci93</Autor>
+  </_6>
+  <_7>
+    <Jugador>Louis Labeyrie</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Francia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.08</Altura>
+    <Edat>28</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>VALENCIA BASKET</Equip>
+    <foto>https://www.acb.com/club/plantilla-lista/id/13/temporada_id/2019</foto>
+    <Autor>fgarci93</Autor>
+  </_7>
+  <_9>
+    <Jugador>Sam Van Rossom</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>Bélgica</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.88</Altura>
+    <Edat>33</Edat>
+    <Temporades>7</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>VALENCIA BASKET</Equip>
+    <foto>https://www.acb.com/club/plantilla-lista/id/13/temporada_id/2019</foto>
+    <Autor>fgarci93</Autor>
+  </_9>
+  <_10>
+    <Jugador>Mike Tobey</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>EE.UU.</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>2.13</Altura>
+    <Edat>25</Edat>
+    <Temporades>3</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>VALENCIA BASKET</Equip>
+    <foto>https://www.acb.com/club/plantilla-lista/id/13/temporada_id/2019</foto>
+    <Autor>fgarci93</Autor>
+  </_10>
+  <_14>
+    <Jugador>Bojan Dubljevic</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Montenegro</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.05</Altura>
+    <Edat>28</Edat>
+    <Temporades>8</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>VALENCIA BASKET</Equip>
+    <foto>https://www.acb.com/club/plantilla-lista/id/13/temporada_id/2019</foto>
+    <Autor>fgarci93</Autor>
+  </_14>
+  <_16>
+    <Jugador>Guillem Vives</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.92</Altura>
+    <Edat>26</Edat>
+    <Temporades>6</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>VALENCIA BASKET</Equip>
+    <foto>https://www.acb.com/club/plantilla-lista/id/13/temporada_id/2019</foto>
+    <Autor>fgarci93</Autor>
+  </_16>
+  <_19>
+    <Jugador>F. San Emeterio</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.99</Altura>
+    <Edat>36</Edat>
+    <Temporades>5</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>VALENCIA BASKET</Equip>
+    <foto>https://www.acb.com/club/plantilla-lista/id/13/temporada_id/2019</foto>
+    <Autor>fgarci93</Autor>
+  </_19>
+  <_30>
+    <Jugador>Joan Sastre</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.01</Altura>
+    <Edat>28</Edat>
+    <Temporades>4</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>VALENCIA BASKET</Equip>
+    <foto>https://www.acb.com/club/plantilla-lista/id/13/temporada_id/2019</foto>
+    <Autor>fgarci93</Autor>
+  </_30>
+  <_42>
+    <Jugador>A. Doornekamp</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>Holanda</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.01</Altura>
+    <Edat>34</Edat>
+    <Temporades>3</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>VALENCIA BASKET</Equip>
+    <foto>https://www.acb.com/club/plantilla-lista/id/13/temporada_id/2019</foto>
+    <Autor>fgarci93</Autor>
+  </_42>
+  <_40>
+    <Jugador>Millán Jiménez</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.94</Altura>
+    <Edat>17</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>VALENCIA BASKET</Equip>
+    <foto>https://www.acb.com/club/plantilla-lista/id/13/temporada_id/2019</foto>
+    <Autor>fgarci93</Autor>
+  </_40>
+  <_43>
+    <Jugador>Tomas Pavelka</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Eslovaquia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.17</Altura>
+    <Edat>19</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>VALENCIA BASKET</Equip>
+    <foto>https://www.acb.com/club/plantilla-lista/id/13/temporada_id/2019</foto>
+    <Autor>fgarci93</Autor>
+  </_43>
+  <_1>
+    <Jugador>Gabriel Lundberg</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>Dinamarca</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.93</Altura>
+    <Edat>25</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Iberostar Tenerife</Equip>
+    <foto>https://static.acb.com/img/4/2f/47/157485pre7943.jpg</foto>
+    <Autor>Samuel</Autor>
+  </_1>
+  <_6>
+    <Jugador>Dino Radoncic</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>Montenegro</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.02</Altura>
+    <Edat>21</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Iberostar Tenerife</Equip>
+    <foto>https://static.acb.com/img/50/27/26/213822pre22692.jpg</foto>
+    <Autor>Samuel</Autor>
+  </_6>
+  <_9>
+    <Jugador>Marcelo Tieppo Huertas</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>Italia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.91</Altura>
+    <Edat>36</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Iberostar Tenerife</Equip>
+    <foto>https://static.acb.com/img/44/2b/57/165201pre8072.jpg</foto>
+    <Autor>Samuel</Autor>
+  </_9>
+  <_10>
+    <Jugador>Sasu Antreas Salin</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>Finlandia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.9</Altura>
+    <Edat>28</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Iberostar Tenerife</Equip>
+    <foto>https://static.acb.com/img/57/1e/32/150037pre6087.jpg</foto>
+    <Autor>Samuel</Autor>
+  </_10>
+  <_11>
+    <Jugador>Daniel Díez De La Faya</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.01</Altura>
+    <Edat>27</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Iberostar Tenerife</Equip>
+    <foto>https://static.acb.com/img/2b/4d/52/149605pre6090.jpg</foto>
+    <Autor>Samuel</Autor>
+  </_11>
+  <_19>
+    <Jugador>Giorgi Shermadini</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Georgia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.17</Altura>
+    <Edat>31</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Iberostar Tenerife</Equip>
+    <foto>https://static.acb.com/img/8/3c/4e/149791pre6132.jpg</foto>
+    <Autor>Samuel</Autor>
+  </_19>
+  <_25>
+    <Jugador>Alejandro López Laz</Jugador>
+    <Posicio>Escolta</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.89</Altura>
+    <Edat>29</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Iberostar Tenerife</Equip>
+    <foto>https://static.acb.com/img/42/51/56/149524pre6102.jpg</foto>
+    <Autor>Samuel</Autor>
+  </_25>
+  <_30>
+    <Jugador>Aaron White</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>EE.UU.</Pais>
+    <Llicencia>EXT</Llicencia>
+    <Altura>2.06</Altura>
+    <Edat>27</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Iberostar Tenerife</Equip>
+    <foto>https://static.acb.com/img/4d/57/26/201204pre18270.jpg</foto>
+    <Autor>Samuel</Autor>
+  </_30>
+  <_31>
+    <Jugador>Georgios Bogris</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>Grecia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>2.1</Altura>
+    <Edat>31</Edat>
+    <Temporades>2</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Iberostar Tenerife</Equip>
+    <foto>https://static.acb.com/img/14/1/29/193417pre16433.jpg</foto>
+    <Autor>Samuel</Autor>
+  </_31>
+  <_35>
+    <Jugador>Francisco Javier Guerra Trujillo</Jugador>
+    <Posicio>Pívot</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.14</Altura>
+    <Edat>27</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Iberostar Tenerife</Equip>
+    <foto>https://static.acb.com/img/23/19/28/149710pre6117.jpg</foto>
+    <Autor>Samuel</Autor>
+  </_35>
+  <_93>
+    <Jugador>Alejandro Suárez Castro</Jugador>
+    <Posicio>Ala-pívot</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>2.06</Altura>
+    <Edat>26</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Iberostar Tenerife</Equip>
+    <foto>https://static.acb.com/img/30/61/39/149560pre6120.jpg</foto>
+    <Autor>Samuel</Autor>
+  </_93>
+  <_94>
+    <Jugador>Lahaou Konate</Jugador>
+    <Posicio>Alero</Posicio>
+    <Pais>Francia</Pais>
+    <Llicencia>EUR</Llicencia>
+    <Altura>1.96</Altura>
+    <Edat>28</Edat>
+    <Temporades>1</Temporades>
+    <Situacio>PE</Situacio>
+    <Equip>Iberostar Tenerife</Equip>
+    <foto>https://static.acb.com/img/0/33/26/174855pre11660.jpg</foto>
+    <Autor>Samuel</Autor>
+  </_94>
+  <_91>
+    <Jugador>Alberto Cabrera Garrancho</Jugador>
+    <Posicio>Base</Posicio>
+    <Pais>España</Pais>
+    <Llicencia>JFL</Llicencia>
+    <Altura>1.78</Altura>
+    <Edat>21</Edat>
+    <Temporades>3</Temporades>
+    <Situacio>CI</Situacio>
+    <Equip>Iberostar Tenerife</Equip>
+    <foto>https://static.acb.com/img/5e/15/b/149422pre9024.jpg</foto>
+    <Autor>Samuel</Autor>
+  </_91>
+</data>
+
