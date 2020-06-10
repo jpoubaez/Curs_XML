@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="discos.xsl" ?>
+<discos>
+  <disc>
+    <titol>Today is the day 1edicio original vinil</titol>
+    <hora>Tue May 12 2020 20:11:45 GMT+0200 (Hora d’estiu del Centre d’Europa)</hora>
+    <correu>jpou3@institutmontilivi.cat</correu>
+    <portada>https://drive.google.com/uc?export=view&amp;id=1X7REEYuhCL4NVI0gldvBEDq8uHYyPX6M</portada>
+    <idioma>Català</idioma>
+    <consentiment>Si accepto</consentiment>
+  </disc>
+  <disc>
+    <titol>Willpower vinil original</titol>
+    <hora>Tue May 12 2020 20:13:27 GMT+0200 (Hora d’estiu del Centre d’Europa)</hora>
+    <correu>jpoubaez@yahoo.es</correu>
+    <portada>https://drive.google.com/uc?export=view&amp;id=1RcX9hF275aWS2zDf8XPDj4Ghc_qd9_tC</portada>
+    <idioma>Català</idioma>
+    <consentiment>Si accepto</consentiment>
+  </disc>
+  <disc>
+    <titol>3er dic Today is the day orginal vinil Amphetamine Reptile</titol>
+    <hora>Tue May 12 2020 20:14:21 GMT+0200 (Hora d’estiu del Centre d’Europa)</hora>
+    <correu>joanpoubaez@gmail.com</correu>
+    <portada>https://drive.google.com/uc?export=view&amp;id=1LDKpFuJrksFF9R0LQFw4lKZglt5sRPsN</portada>
+    <idioma>Català</idioma>
+    <consentiment>Si accepto</consentiment>
+  </disc>
+  <disc>
+    <titol>Six pack de Black Flag</titol>
+    <hora>Tue May 12 2020 20:15:08 GMT+0200 (Hora d’estiu del Centre d’Europa)</hora>
+    <correu>jpou@institutcamplans.cat</correu>
+    <portada>https://drive.google.com/uc?export=view&amp;id=13gmtJvM-8thW0vjxG0yQGRacDMW9m3jh</portada>
+    <idioma>Català</idioma>
+    <consentiment>Si accepto</consentiment>
+  </disc>
+  <disc>
+    <titol>3rd eye de Redd Kross</titol>
+    <hora>Tue May 12 2020 20:16:47 GMT+0200 (Hora d’estiu del Centre d’Europa)</hora>
+    <correu>pou@nasa.cat</correu>
+    <portada>https://drive.google.com/uc?export=view&amp;id=1k3zzS_FZAm96picwtdJlGN3MkSij-WYm</portada>
+    <idioma>Català</idioma>
+    <consentiment>Si accepto</consentiment>
+  </disc>
+  <disc>
+    <titol>Willpower de Today is the day</titol>
+    <hora>Tue May 12 2020 22:33:28 GMT+0200 (Hora d’estiu del Centre d’Europa)</hora>
+    <correu>jpou3@xtec.cat</correu>
+    <portada>https://drive.google.com/uc?export=view&amp;id=1lUyMBPoW-0Nr81u1JIhNkWvhDPp5CcWT</portada>
+    <idioma>Català</idioma>
+    <consentiment>Si accepto</consentiment>
+  </disc>
+</discos>
