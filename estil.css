@@ -1,0 +1,124 @@
+body {
+    background: tomato;
+}
+
+.contenedora {
+    width: 965px;
+    margin: auto;
+    border-radius: 15px;
+    background: white
+}
+
+.header {
+
+}
+
+.row {
+    text-align: center
+}
+
+.footer {
+    height: 90px
+}
+
+.col {
+    width: 265px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: justify;
+    padding: 20px
+}
+
+.col h2 {
+    color: brown;
+}
+
+.con_margin {
+    margin-top: 30px
+
+}
+
+.menu {
+    padding: 0;
+    float: right;
+}
+
+.menu li {
+    float: left;
+    list-style: none
+}
+
+.menu li a {
+    text-decoration: none;
+    color: black;
+    padding: 15px;
+}
+
+.menu li a:hover, .active {
+    background: #B52025
+}
+
+.footer a {
+    text-decoration: none;
+    color: black;
+}
+
+.enlaces {
+    width: 500px;
+    float: left;
+    padding-left: 35px;
+
+}
+
+.enlaces a {
+    padding-right: 35px;
+    color: tomato;
+}
+
+.titulo {
+    text-align: center
+}
+
+cajacookies {
+  box-shadow: 0px 0px 5px 5px #808080;
+  background-color: #c1bdba ;
+  color: white;
+  padding: 12px;
+  margin: auto;
+  margin-bottom: 0px;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+
+  text-align: center;
+}
+
+#cajacookies button {
+  color: black;
+}
+#iniciar {
+    float: right;
+    position: relative;
+    align-content: right;
+    top: -45px;
+    left: -5px;
+}
+
+.btn_nou {
+  padding: .25rem .25rem;
+  border-radius: .25rem;
+  background-color: #3399CC ;
+  color: #fff;
+  vertical-align: middle;
+  transition: background-color .15s ease-in-out;
+   font-size:14px;
+   
+}
+
+.btn_nou:hover, .btn-bootstrap:focus {
+  background-color: #0069d9;
+}
+
+.btn_nou:active {
+  background-color: #0062cc;
+}
