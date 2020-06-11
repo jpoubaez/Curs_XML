@@ -122,3 +122,11 @@ cajacookies {
 .btn_nou:active {
   background-color: #0062cc;
 }
+
+#opcions {
+  background-color: #0069d9;
+  padding: .25rem .25rem;
+  border-radius: .25rem;
+  border: 1px solid black;
+  width: 60%;
+}

@@ -61,24 +61,36 @@
 
     </div>
     <img src="./Imatges/usap.jpg" height="280" width="965" alt="VUIT radio">
-    <h1 class="titulo">Portfolio Joan Pou Projecte 2</h1>
-    <div class="row">
-        <div class="col"><h2>Web Service del questionari propi</h2>
-            <a href="https://script.google.com/macros/s/AKfycbxoHDmx15Tnbu85U2LE2-5MdzRiCK33F19Lwo75pCjPPhrP-z4/exec?accio=xml&id=3&idioma=en"><img src="./Imatges/XML.jpg" alt="XML" height="98" width="265"></a>
-            <p>Apreta sobre l'imatge i sobre els següents enllaços per provar el web service XML: 1 element anglès, mode llista, tots els elements i tots els elements amb estil XSL </p>
-            <p><a href="instruccions.html">Com fer servir el web service.</a> </p>
-            <p><a href="https://script.google.com/macros/s/AKfycbxoHDmx15Tnbu85U2LE2-5MdzRiCK33F19Lwo75pCjPPhrP-z4/exec?accio=xml&metode=llista&id=0&idioma=ca">Mode llista</a></p>
-            <p><a href="https://script.google.com/macros/s/AKfycbxoHDmx15Tnbu85U2LE2-5MdzRiCK33F19Lwo75pCjPPhrP-z4/exec">Tots els elements</a> </p>
-            <p><a href="https://script.google.com/macros/s/AKfycbxoHDmx15Tnbu85U2LE2-5MdzRiCK33F19Lwo75pCjPPhrP-z4/exec?accio=xml&estil=1">Tots els elements amb estil XSL NO FUNCIONA!!!!</a> </p>
-            <p><a href="disc_transform.php">Tots els elements amb estil XSL mitjançant PHP</a> </p>
-        </div>
-        <div class="col"><h2>Web Service del questionari propi</h2>
-            <a href="https://script.google.com/macros/s/AKfycbxoHDmx15Tnbu85U2LE2-5MdzRiCK33F19Lwo75pCjPPhrP-z4/exec?accio=json&id=0"><img src="./Imatges/JSON.png" alt="JSON"></a>
-            <p>Apreta sobre la imatge i sobre el següent enllaç per a provar el webservice JSON.</p>
-            <p><a href="https://script.google.com/macros/s/AKfycbxoHDmx15Tnbu85U2LE2-5MdzRiCK33F19Lwo75pCjPPhrP-z4/exec?accio=json&metode=llista">Mode llista</a></p>
-        </div>
-        <div class="col"><h2>Lliure</h2>
-            <a href="projecte2.html"><img src="./Imatges/pantalles_vuit_app.png" alt="Lliure" height="98" width="265"></a><p>Lliure per posar-hi alguna cosa.</p>
+    <h1 class="titulo">Instruccions Web Service Discos</h1>
+    <div>
+        <h4 class="titulo">El web service el trobem a:<br/>
+        https://script.google.com/macros/s/AKfycbxoHDmx15Tnbu85U2LE2-5MdzRiCK33F19Lwo75pCjPPhrP-z4/exec
+        </h4>
+        <div id="opcions">
+        <b>Opcions:</b>
+        <ul>
+            <li><b>accio</b><br/>
+                 <ul>
+                     <li><b>xml</b> ens torna un fitxer xml, <b>json</b> torna un json</li>
+                 </ul>   
+            </li>
+            <li><b>id</b><br/>
+                 <ul>
+                    <li><b>0</b> ens torna tots els elements de l'xml</li>
+                    <li><b>diferent de 0</b> torna un element disc de l'xml</li>
+                 </ul>   
+            </li>
+            <li><b>metode</b><br/>
+                 <ul>
+                    <li><b>llista</b> ens torna idx i títol dels discos en xml</li>
+                 </ul>   
+            </li>
+            <li><b>idioma</b><br/>
+                 <ul>
+                    <li>ens tradueix del català a qualsevol idioma</li>
+                 </ul>   
+            </li>
+        </ul>
         </div>
     </div>
     <div class="footer">
