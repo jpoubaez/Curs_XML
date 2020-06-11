@@ -124,7 +124,8 @@ cajacookies {
 }
 
 #opcions {
-  background-color: #0069d9;
+  margin: auto;
+  background-color: #cc66ff;
   padding: .25rem .25rem;
   border-radius: .25rem;
   border: 1px solid black;
