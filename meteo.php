@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="ca">
 <head>
     <meta charset="UTF-8">
     <title>Meteo</title>
@@ -59,10 +59,10 @@ $lc = json_decode($data, true);     // decodifiquem les dades JSON a una matriu(
 // Mirem abans l'estructura de les dades retornades emprant un JSON PARSER pere exemple : https://jsonformatter.org/json-parser
 
 $ciutat = $lc["data"]["city"];  // recuperem la ciutat
-$long = $lc["data"]["ll"][0]  ;  // Recuperem la 1a coordenada la latitud  
-$lat = $lc["data"]["ll"][1]  ;  // Recuperem la 2a coordenada la longitud
+$lat = $lc["data"]["ll"][0]  ;  // Recuperem la 1a coordenada la latitud  
+$long = $lc["data"]["ll"][1]  ;  // Recuperem la 2a coordenada la longitud
 
-echo "estic a : ".$ciutat . " / " . $lat . "  " . $long . " <br /> <hr /><br />";
+echo "estic a : ".$ciutat . " / lat: " . $lat . " long: " . $long . " <br /> <hr /><br />";
 
 
 // A partir de les coordenades obtenim les dades metereològiques

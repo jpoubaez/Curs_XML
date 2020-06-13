@@ -84,8 +84,25 @@
         <div class="col"><h2>Web service de meteo</h2>
             <a href="meteo.php"><img src="./Imatges/temps.png" alt="Meteo" height="196" width="257"></a><p>Això et diu el temps que fa a la teva zona.</p>
         </div>
-        <div class="col"><h2>Lliure</h2>
-            <a href="projecte3.html"><img src="./Imatges/pantalles_vuit_app.png" alt="Lliure" height="98" width="265"></a><p>Lliure per posar-hi alguna cosa.</p>
+        <div class="col"><h2>Web Service propi de discos</h2>
+            <div id="formulari_web_service">
+                <form action="./web_s_discos.php">
+                    <p>Tria el tipus de sortida.</p>
+                    <input type="radio" id="sortida_xml" name="sortida" value="xml" checked>
+                    <label for="sortida_xml">XML</label><br>
+                    <input type="radio" id="sortida_json" name="sortida" value="json">
+                    <label for="sortida_json">JSON</label><br><br>
+                    <label for="est_indx">Element a mostrar (0 mostra tots en XML): </label>
+                    <input type="text" id="est_indx" name="indx_mostrar" value="0" placeholder="0"><br><br>
+                    <input type="checkbox" id="xml_resumit" name="XMLResumit" value="llista">
+                    <label for="xml_resumit">Mostra element resumit en XML</label><br><br>
+                    <input type="checkbox" id="llistaJSON" name="JSONllista" value="llista">
+                    <label for="llistaJSON">Llista tots els elements (JSON)</label><br><br>
+                    <label for="idioma">Traduïr a (només XML)</label>
+                    <input id="idioma" type="text" id="idioma" name="idioma" value="ca" placeholder="ca"><br><br>
+                    <br/><input type="submit" value="Envia">
+                </form> 
+            </div>
         </div>
         <div class="col"><h2>Lliure</h2>
             <a href="projecte3.html"><img src="./Imatges/pantalles_vuit_app.png" alt="Lliure" height="98" width="265"></a><p>Lliure per posar-hi alguna cosa.</p>

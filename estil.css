@@ -1,5 +1,5 @@
 body {
-    background: tomato;
+    background: #FFFFF0;
 }
 
 .contenedora {
@@ -130,4 +130,20 @@ cajacookies {
   border-radius: .25rem;
   border: 1px solid black;
   width: 60%;
+}
+
+#formulari_web_service {
+  overflow: auto;
+  border-radius: .25rem;
+  border: 1px solid black;
+  padding: 5px;
+  background-color: #FFFFE0;
+}
+
+#idioma {
+  width: 15%;
+}
+
+#est_indx {
+    width: 10%;
 }
