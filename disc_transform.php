@@ -11,7 +11,7 @@ else $idioma = "&idioma=ca";
 
  
 
-$url="https://script.google.com/macros/s/AKfycbxoHDmx15Tnbu85U2LE2-5MdzRiCK33F19Lwo75pCjPPhrP-z4/exec?accio=xml".$model.$id .$idioma ; // url de la pagina que queremos obtener  
+$url="https://script.google.com/macros/s/AKfycbwhaUpQgYZvyKlm7XObi9YMUXRBNhfSGIaSl0oBNOG9Z5Tm7N8/exec?accio=xml".$model.$id .$idioma ; // url de la pagina que queremos obtener  
 
 
 

@@ -19,13 +19,13 @@ if (isset($_GET["idioma"])) $idioma=$_GET["idioma"]; // en fr de ...
 
 //var_dump($_GET);
 
-// Construim crida al web service segons paràmtre rebut
+// Construim crida al web service segons paràmetre rebut
 if ($accio=="xml") {
 	// Si XML
-	$url1 = "https://script.google.com/macros/s/AKfycbxoHDmx15Tnbu85U2LE2-5MdzRiCK33F19Lwo75pCjPPhrP-z4/exec?accio=".$accio."&id=".$id."&metode=".$metode_xml."&idioma=".$idioma;
+	$url1 = "https://script.google.com/macros/s/AKfycbwhaUpQgYZvyKlm7XObi9YMUXRBNhfSGIaSl0oBNOG9Z5Tm7N8/exec?accio=".$accio."&id=".$id."&metode=".$metode_xml."&idioma=".$idioma;
 } else {
 	// Si JSON
-	$url1 = "https://script.google.com/macros/s/AKfycbxoHDmx15Tnbu85U2LE2-5MdzRiCK33F19Lwo75pCjPPhrP-z4/exec?accio=".$accio."&id=".$id."&metode=".$metode_json."&idioma=".$idioma;
+	$url1 = "https://script.google.com/macros/s/AKfycbwhaUpQgYZvyKlm7XObi9YMUXRBNhfSGIaSl0oBNOG9Z5Tm7N8/exec?accio=".$accio."&id=".$id."&metode=".$metode_json."&idioma=".$idioma;
 }
 
 

@@ -54,8 +54,12 @@ body {
     padding: 15px;
 }
 
-.menu li a:hover, .active {
-    background: #B52025
+.menu li a:hover {
+    background: #D2B48C
+}
+
+.active {
+    background: #F5DEB3
 }
 
 .footer a {
@@ -125,7 +129,7 @@ cajacookies {
 
 #opcions {
   margin: auto;
-  background-color: #cc66ff;
+  background-color: #E0FFFF;
   padding: .25rem .25rem;
   border-radius: .25rem;
   border: 1px solid black;
