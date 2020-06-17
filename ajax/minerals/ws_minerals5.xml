@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+-
+- phpMyAdmin XML Dump
+- version 3.2.4
+- http://www.phpmyadmin.net
+-
+- Servidor: localhost:3306
+- Temps de generació: 29-05-2011 a les 23:52:15
+- Versió del servidor: 5.1.41
+- PHP versió: 5.3.1
+-->
+
+<!--
+- Base de dades: 'minerals'
+-->
+<minerals>
+  <!-- Taula ws_minerals -->
+    <ws_minerals>
+        <id>1</id>
+        <nom>AERINITA</nom>
+        <duresa>3</duresa>
+        <densitat>2,5</densitat>
+        <composicio>Silicat de composició i estructura poc definides.</composicio>
+        <color>blau cel, blau fosc</color>
+        <grup>Silicat</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m60.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>2</id>
+        <nom>ALBITA</nom>
+        <duresa>6</duresa>
+        <lluisor>No metàl.lica, vítria</lluisor>
+        <densitat>2,6</densitat>
+        <composicio>NaAlSi3O8</composicio>
+        <exfoliacio>Exfoliació perfecta o bona segons la direcció</exfoliacio>
+        <color>Blanc</color>
+        <grup>Tectosilicat</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m72.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>3</id>
+        <nom>ALMANDINA</nom>
+        <duresa>6,5-7,5</duresa>
+        <lluisor>No metàl.lica</lluisor>
+        <densitat>4,2</densitat>
+        <composicio>Fe3Al2(SiO4)3</composicio>
+        <exfoliacio>No es exfoliable. Fractura estellosa</exfoliacio>
+        <color>vermell fosc-vermell marró</color>
+        <grup>Neosilicat (granat)</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m76.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>4</id>
+        <nom>ANAPAÏTA</nom>
+        <duresa>3,5</duresa>
+        <lluisor>No metal.lica, vítria</lluisor>
+        <densitat>2,8</densitat>
+        <composicio>(Ca,Fe)3P2O8.4H2O</composicio>
+        <color>Verd-oliva</color>
+        <foto>http://www.xtec.es/~fmas/mine/m57.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>5</id>
+        <nom>ANATASA</nom>
+        <duresa>5,5-6</duresa>
+        <lluisor>No metaàl.lica</lluisor>
+        <densitat>3,9</densitat>
+        <composicio>TiO2</composicio>
+        <exfoliacio>Bona</exfoliacio>
+        <color>Blau, gris, vermell, blau-fosc</color>
+        <grup>Òxids</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m68.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>6</id>
+        <nom>ANDALUSITA</nom>
+        <duresa>7,5</duresa>
+        <lluisor>No metàl.lica, vítria-mat-greixosa</lluisor>
+        <densitat>3,2</densitat>
+        <composicio>Al2(SiO4)O</composicio>
+        <exfoliacio>Bona exfoliació basal</exfoliacio>
+        <color>gris, marró, rosa, verd</color>
+        <grup>Neosilicat</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m83.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>7</id>
+        <nom>ANDRADITA</nom>
+        <duresa>6,5-7,5</duresa>
+        <lluisor>No metàl.lica</lluisor>
+        <densitat>3,9</densitat>
+        <composicio>Mg3Al2(SiO4)3</composicio>
+        <exfoliacio>Pràcticament inexfoliable</exfoliacio>
+        <color>gris verdós-marró negrós</color>
+        <grup>Neosilicat (granat)</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m79.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>8</id>
+        <nom>ANGLESITA</nom>
+        <duresa>3</duresa>
+        <lluisor>No metàl.lica</lluisor>
+        <densitat>6,3</densitat>
+        <composicio>PbSO4</composicio>
+        <exfoliacio>Exfoliable</exfoliacio>
+        <color>incolor, blanc</color>
+        <grup>Sulfats</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m50.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>9</id>
+        <nom>ANKERITA</nom>
+        <duresa>3,5</duresa>
+        <lluisor>No metàl.lica, vítria</lluisor>
+        <densitat>3</densitat>
+        <composicio>CaFe(CO3)2</composicio>
+        <exfoliacio>Romboèdrica ,bona</exfoliacio>
+        <color>Gris, marrò clar, beige, rosa.</color>
+        <foto>http://www.xtec.es/~fmas/mine/m54.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>10</id>
+        <nom>ARAGONITA</nom>
+        <duresa>3,5 a 4</duresa>
+        <lluisor>No metàl.lica, vítria</lluisor>
+        <densitat>2,95</densitat>
+        <composicio>Ca CO3</composicio>
+        <exfoliacio>Poc evident. Fractura concoïdal.</exfoliacio>
+        <color>variat o incolor</color>
+        <grup>Carbonats</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m55.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>11</id>
+        <nom>ARGENT</nom>
+        <duresa>2,5-3</duresa>
+        <lluisor>Metàl.lica</lluisor>
+        <densitat>10,5</densitat>
+        <composicio>Ag</composicio>
+        <exfoliacio>No té exfoliació</exfoliacio>
+        <color>Blanc plata</color>
+        <grup>Nadius</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m11.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>12</id>
+        <nom>ARGENTITA</nom>
+        <duresa>1-1,5</duresa>
+        <lluisor>Metàl.lica</lluisor>
+        <densitat>2,3</densitat>
+        <composicio>Ag2S</composicio>
+        <exfoliacio>No es exfoliable</exfoliacio>
+        <color>negre</color>
+        <grup>Sulfurs</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m03.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>13</id>
+        <nom>ARSENOPIRITA</nom>
+        <duresa>5-5,5</duresa>
+        <lluisor>Metàl.lica</lluisor>
+        <densitat>6,1</densitat>
+        <composicio>FeAsS</composicio>
+        <exfoliacio>Exfoliable</exfoliacio>
+        <color>gris argent</color>
+        <grup>Sulfurs</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m24.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>14</id>
+        <nom>ATZURITA</nom>
+        <duresa>3,5 i 4</duresa>
+        <lluisor>No metàl.lica, vítri</lluisor>
+        <densitat>3,7 i 3,8</densitat>
+        <composicio>Cu3 (OH (CO)3 )2</composicio>
+        <exfoliacio>Perfecta.</exfoliacio>
+        <color>Blau</color>
+        <grup>Carbonats</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m40.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>15</id>
+        <nom>AUGITA</nom>
+        <duresa>6</duresa>
+        <lluisor>No metàl.lica, vítria</lluisor>
+        <densitat>3,4</densitat>
+        <composicio>(CaMgFeTiAl)2 (SiAl)2 O6</composicio>
+        <exfoliacio>Prismàtica, a 90§. Fractura concoïdal</exfoliacio>
+        <color>Verd fosc i negre</color>
+        <grup>Inosilicats</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m65.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>16</id>
+        <nom>AURICALCITA</nom>
+        <duresa>2,5</duresa>
+        <lluisor>Metal.lica</lluisor>
+        <densitat>2,5</densitat>
+        <composicio>(Zn, Cu)5(CO3)2(OH)3</composicio>
+        <exfoliacio>Exf. Perfecta</exfoliacio>
+        <color>blau fort</color>
+        <grup>Carbonats</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m36.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>17</id>
+        <nom>BARITINA</nom>
+        <duresa>3 i 3,5</duresa>
+        <lluisor>No metàl.lica , vítria o nacrada</lluisor>
+        <densitat>4,5</densitat>
+        <composicio>Ba SO4</composicio>
+        <exfoliacio>Perfecta, bàsica. Fractura concoïdal</exfoliacio>
+        <color>blanc, transparent</color>
+        <grup>Sulfats</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m51.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>18</id>
+        <nom>BIOTITA</nom>
+        <duresa>2,5 a 3</duresa>
+        <lluisor>No metàl.lica, nacrada</lluisor>
+        <densitat>2,8 a 3,2</densitat>
+        <composicio>[K(MgFeMn)3(OHF)2AlSi3O10]</composicio>
+        <exfoliacio>Molt perfecta.</exfoliacio>
+        <color>Negre, verd fosc</color>
+        <grup>Filosilicats</grup>
+    </ws_minerals>
+    <ws_minerals>
+        <id>19</id>
+        <nom>BISMUT</nom>
+        <duresa>2-2,5</duresa>
+        <lluisor>Metàl.lica</lluisor>
+        <densitat>9,8</densitat>
+        <composicio>Bi</composicio>
+        <exfoliacio>Exf. Perfecta</exfoliacio>
+        <color>Blanc plata rosat</color>
+        <grup>Nadius</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m08.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>20</id>
+        <nom>CALCITA</nom>
+        <duresa>2,5 i 3</duresa>
+        <lluisor>No metàl.lica, vítria</lluisor>
+        <densitat>2,71</densitat>
+        <composicio>Ca CO3</composicio>
+        <exfoliacio>Molt perfecta i romboèdrica.</exfoliacio>
+        <color>Blanc o incolor</color>
+        <grup>Carbonats</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m49.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>21</id>
+        <nom>CALCOPIRITA</nom>
+        <duresa>3,5 a 4</duresa>
+        <lluisor>Metàl.lica i brillant</lluisor>
+        <densitat>4,1 a 4,3</densitat>
+        <composicio>Cu Fe S2</composicio>
+        <exfoliacio>Fractura concoïdal</exfoliacio>
+        <color>Dorat, irisacions</color>
+        <grup>Sulfurs</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m16.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>22</id>
+        <nom>CALCOSINA</nom>
+        <duresa>2,5-3</duresa>
+        <lluisor>Metàl.lica</lluisor>
+        <densitat>5,5-5,8</densitat>
+        <composicio>Cu2S</composicio>
+        <exfoliacio>Imperfecte. Fractura concoïdal irregular</exfoliacio>
+        <color>gris, plom, fosc</color>
+        <grup>Sulfurs</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m12.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>23</id>
+        <nom>CAOLINITA</nom>
+        <duresa>1,5</duresa>
+        <lluisor>No metàl.lica</lluisor>
+        <densitat>2,6</densitat>
+        <composicio>Al4(Si4O10)(OH)8</composicio>
+        <exfoliacio>Exf. Basal perfecta</exfoliacio>
+        <color>blanc</color>
+        <grup>Fil.losilicats</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m42.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>24</id>
+        <nom>CASSITERITA</nom>
+        <duresa>7</duresa>
+        <lluisor>Metàl.lica</lluisor>
+        <densitat>7</densitat>
+        <composicio>SnO2</composicio>
+        <exfoliacio>Exf. Dolenta Fractura: concoïdal</exfoliacio>
+        <color>marró fosc</color>
+        <grup>Òxids</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m30.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>25</id>
+        <nom>CELESTINA</nom>
+        <duresa>3-3,5</duresa>
+        <lluisor>No metàl.lica</lluisor>
+        <densitat>4</densitat>
+        <composicio>SrSO4</composicio>
+        <exfoliacio>Bona exfoliació.</exfoliacio>
+        <color>incolor, blanc, blau, vermell</color>
+        <grup>Sulfats</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m52.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>26</id>
+        <nom>CERUSITA</nom>
+        <duresa>3-3,5</duresa>
+        <lluisor>No metàl.lica, adamantina</lluisor>
+        <densitat>6,5</densitat>
+        <composicio>PbCO3</composicio>
+        <exfoliacio>Exf. Dolenta.</exfoliacio>
+        <color>incolor, blanc, blau</color>
+        <grup>Carbonats</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m53.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>27</id>
+        <nom>CERVANTINITA</nom>
+        <duresa>1-2,5</duresa>
+        <lluisor>Metàl.lica</lluisor>
+        <densitat>5</densitat>
+        <composicio>Sb2O3</composicio>
+        <color>gris</color>
+        <grup>Òxids</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m32.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>28</id>
+        <nom>CINABRI</nom>
+        <duresa>2,5</duresa>
+        <lluisor>Normalment mat. Adamantina en els cristalls</lluisor>
+        <densitat>8,09</densitat>
+        <composicio>Hg S</composicio>
+        <exfoliacio>Perfecte prismàtica.</exfoliacio>
+        <color>vermell intens</color>
+        <grup>Sulfurs</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m06.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>29</id>
+        <nom>COURE</nom>
+        <duresa>2,5-3</duresa>
+        <lluisor>Metàl.lica</lluisor>
+        <densitat>8,9</densitat>
+        <composicio>Cu</composicio>
+        <exfoliacio>No té exfoliació. Fractura estellosa</exfoliacio>
+        <color>vermell-marró</color>
+        <grup>Nadius</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m10.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>30</id>
+        <nom>CRISOTIL.LE</nom>
+        <duresa>3</duresa>
+        <lluisor>No metàl.lica, sedosa</lluisor>
+        <densitat>2,6</densitat>
+        <composicio>Mg6(Si4O10)(OH)8</composicio>
+        <exfoliacio>Bona</exfoliacio>
+        <color>Gris, verd ,vermell</color>
+        <foto>http://www.xtec.es/~fmas/mine/m56.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>31</id>
+        <nom>CUPRITA</nom>
+        <duresa>3,5-4</duresa>
+        <lluisor>Metàl.lica</lluisor>
+        <densitat>6</densitat>
+        <composicio>Cu2O</composicio>
+        <exfoliacio>Exf. Amb molta dificultat</exfoliacio>
+        <color>vermell grisós, vermell marró</color>
+        <grup>Òxids</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m17.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>32</id>
+        <nom>DIÒPSID</nom>
+        <duresa>5-6</duresa>
+        <lluisor>No metàl.lica</lluisor>
+        <densitat>3,2</densitat>
+        <composicio>CaMgSi2O6</composicio>
+        <exfoliacio>Exf. mitjana (aprox. 87%)</exfoliacio>
+        <color>Verd, verd-negre, gris</color>
+        <grup>Inosilicats</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m64.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>33</id>
+        <nom>EPIDOT</nom>
+        <duresa>6-7</duresa>
+        <lluisor>No metal.lica, vítria</lluisor>
+        <densitat>3,4</densitat>
+        <composicio>Ca2Al2O(OH)(Al, Fe)(Si2O7)</composicio>
+        <exfoliacio>Exfoliació bona paral.lela a la llargada del cristall</exfoliacio>
+        <color>verd oliva-gris verdós</color>
+        <grup>Sorosilicat</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m74.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>34</id>
+        <nom>ERITRITA</nom>
+        <duresa>1-2,5</duresa>
+        <lluisor>Metàl.lica</lluisor>
+        <densitat>3</densitat>
+        <composicio>Co3(AsO4)28H2O</composicio>
+        <exfoliacio>Exf. Perfecta</exfoliacio>
+        <color>vermell carmí</color>
+        <grup>Aseniurs</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m34.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>35</id>
+        <nom>ESCORODITA</nom>
+        <duresa>3,5-4</duresa>
+        <lluisor>Metàl.lica</lluisor>
+        <densitat>3,2</densitat>
+        <composicio>Fe(AsO4).2H2O</composicio>
+        <color>verd grisós</color>
+        <grup>Arseniur</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m37.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>36</id>
+        <nom>ESFALERITA (blenda)</nom>
+        <duresa>3,5 a 4</duresa>
+        <lluisor>Semi-metàl.lic</lluisor>
+        <densitat>3,9 a 4,2</densitat>
+        <composicio>Zn S</composicio>
+        <exfoliacio>Perfecta, rombodecaèrdica.</exfoliacio>
+        <color>Groc, vermell, marró</color>
+        <grup>Sulfurs</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m15.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>37</id>
+        <nom>ESTIBINA</nom>
+        <duresa>2</duresa>
+        <lluisor>Metàl.lica</lluisor>
+        <densitat>4,5</densitat>
+        <composicio>Sb2S3</composicio>
+        <color>gris-plom</color>
+        <grup>Sulfurs</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m04.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>38</id>
+        <nom>FLUORITA</nom>
+        <duresa>4</duresa>
+        <lluisor>No metàl.lica, vítria</lluisor>
+        <densitat>3,18</densitat>
+        <composicio>Ca F2</composicio>
+        <exfoliacio>En octaèdres perfectes.</exfoliacio>
+        <color>incolora, verda,</color>
+        <grup>Halurs</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m58.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>39</id>
+        <nom>GAHNITA</nom>
+        <duresa>7,5-8</duresa>
+        <lluisor>No metàl.lica, vítria</lluisor>
+        <densitat>4-4,6</densitat>
+        <composicio>ZnAl2O4</composicio>
+        <exfoliacio>Exfoliació dolenta.</exfoliacio>
+        <color>Blau verdós</color>
+        <grup>Espinella</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m84.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>40</id>
+        <nom>GALENA</nom>
+        <duresa>2,5 a 3</duresa>
+        <lluisor>metàl.lica</lluisor>
+        <densitat>7,2 a 7,6</densitat>
+        <composicio>Pb S</composicio>
+        <exfoliacio>Bona, cúbica.</exfoliacio>
+        <color>Gris plom</color>
+        <grup>Sulfurs</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m09.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>41</id>
+        <nom>GOETHITA</nom>
+        <duresa>4-5,5</duresa>
+        <lluisor>Metàl.lica</lluisor>
+        <densitat>4,2</densitat>
+        <composicio>FeO OH</composicio>
+        <exfoliacio>Exf. Perfecte</exfoliacio>
+        <color>Marró fosc, negre</color>
+        <grup>Hidròxids</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m21.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>42</id>
+        <nom>GRANAT</nom>
+        <duresa>7 a 7,5</duresa>
+        <lluisor>No metàl.lica, vítria o adamantina</lluisor>
+        <densitat>3,5 a 4,3</densitat>
+        <exfoliacio>Molt imperfect. Fractura irregular.</exfoliacio>
+        <color>Variat</color>
+        <grup>Neosilicats</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m78.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>43</id>
+        <nom>GREENOCKITA</nom>
+        <duresa>1-2,5</duresa>
+        <lluisor>Metàl.lica</lluisor>
+        <densitat>5</densitat>
+        <composicio>CdS</composicio>
+        <exfoliacio>Exf. Perfecta</exfoliacio>
+        <color>gris viu</color>
+        <grup>Sulfurs</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m33.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>44</id>
+        <nom>GUIX</nom>
+        <duresa>1,5 - 2</duresa>
+        <lluisor>No metàl.lica (vítria, sedosa o nacrada)</lluisor>
+        <densitat>2,3</densitat>
+        <composicio>CaSO4.2H2O</composicio>
+        <exfoliacio>Exfoliació habitualment molt bona, en forma laminar</exfoliacio>
+        <color>Blanc</color>
+        <grup>Sulfats</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m43.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>45</id>
+        <nom>HALITA</nom>
+        <duresa>2</duresa>
+        <lluisor>No metàl.lica, vítria</lluisor>
+        <densitat>2,1 a 2,2</densitat>
+        <composicio>Na Cl</composicio>
+        <exfoliacio>Perfecte, en tres direccions, cúbica.</exfoliacio>
+        <color>Blanca o incolora</color>
+        <grup>Halogenurs</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m44.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>46</id>
+        <nom>HEMATITES (Oligist)</nom>
+        <duresa>6,5</duresa>
+        <lluisor>Metàl.lica a mat.</lluisor>
+        <densitat>5,26</densitat>
+        <composicio>Fe2 O3</composicio>
+        <exfoliacio>Inexistent. Fractura concoïdal. Bona quan són làmines</exfoliacio>
+        <color>Castany negre roig</color>
+        <grup>Òxids</grup>
+    </ws_minerals>
+    <ws_minerals>
+        <id>47</id>
+        <nom>HEXAHIDRITA</nom>
+        <duresa>2-2,5</duresa>
+        <lluisor>No metàl.lica</lluisor>
+        <densitat>1,7</densitat>
+        <composicio>MgSO4.6H2O</composicio>
+        <exfoliacio>Exf. Perfecta</exfoliacio>
+        <color>blanc, gris, verd, vermell, rosa</color>
+        <foto>http://www.xtec.es/~fmas/mine/m47.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>48</id>
+        <nom>HORNBLENDA</nom>
+        <duresa>5-6</duresa>
+        <lluisor>No metàl.lica</lluisor>
+        <densitat>3,1</densitat>
+        <composicio>Ca2Na(Mg,Fe)4(Al,Fe)((Si,Al)4O11)2(OH)2</composicio>
+        <exfoliacio>Bona en dues direcc. aprox. a 120ø</exfoliacio>
+        <color>Verd-fosc, marró i negre</color>
+        <grup>Inosilicats</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m67.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>49</id>
+        <nom>MAGHEMITA</nom>
+        <duresa>4-5,5</duresa>
+        <lluisor>Metàl.lica</lluisor>
+        <densitat>4,7</densitat>
+        <composicio>Fe2O3</composicio>
+        <color>gris vermellós</color>
+        <grup>Òxids</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m22.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>50</id>
+        <nom>MAGNETITA</nom>
+        <duresa>5,5 - 6</duresa>
+        <lluisor>Metàl.lic</lluisor>
+        <densitat>5,18</densitat>
+        <composicio>Fe (OH)3</composicio>
+        <exfoliacio>Inparcibible. Fractura concoïdal</exfoliacio>
+        <color>Negre ferro</color>
+        <grup>Òxids</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m25.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>51</id>
+        <nom>MALAQUITA</nom>
+        <duresa>3,5 a 4</duresa>
+        <lluisor>No metàl.lica, vítria, adamantina, sedosa</lluisor>
+        <densitat>3,9 a 4,03</densitat>
+        <composicio>Cu2 (OH)2 (CO3)2</composicio>
+        <exfoliacio>Bona. Fractura Concoïdal</exfoliacio>
+        <color>verd-clar, fosc</color>
+        <grup>Carbonats</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m39.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>52</id>
+        <nom>MARCASSITA</nom>
+        <duresa>6-6,5</duresa>
+        <lluisor>Metàl.lica</lluisor>
+        <densitat>4,9</densitat>
+        <composicio>FeS2</composicio>
+        <exfoliacio>Exfoliació dolenta</exfoliacio>
+        <color>gris llautó clar</color>
+        <grup>Sulfurs</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m28.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>53</id>
+        <nom>MELANTERITA</nom>
+        <duresa>1-2</duresa>
+        <lluisor>Metàl.lica</lluisor>
+        <densitat>-</densitat>
+        <composicio>FeSO4 7H2O</composicio>
+        <color>gris verdós</color>
+        <foto>http://www.xtec.es/~fmas/mine/m31.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>54</id>
+        <nom>MICROCLINA</nom>
+        <duresa>6</duresa>
+        <lluisor>No metàl.lica, vítria</lluisor>
+        <densitat>2,6</densitat>
+        <composicio>KAlSi3O8</composicio>
+        <exfoliacio>Bona exfoliació (90§)</exfoliacio>
+        <color>Blanc, verd, blau cel</color>
+        <grup>tectosilicat</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m70.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>55</id>
+        <nom>MIL.LERITA</nom>
+        <duresa>3-3,5</duresa>
+        <lluisor>Metàl.lica</lluisor>
+        <densitat>5,5</densitat>
+        <composicio>NiS</composicio>
+        <color>gris llautó clar</color>
+        <grup>Sulfurs</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m14.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>56</id>
+        <nom>MOLIBDENITA</nom>
+        <duresa>1-1,5</duresa>
+        <lluisor>Metàl.lica</lluisor>
+        <densitat>3,5</densitat>
+        <composicio>MoS2</composicio>
+        <exfoliacio>Exf. en làmines perfecta.</exfoliacio>
+        <color>gris-plom</color>
+        <grup>Sulfurs</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m05.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>57</id>
+        <nom>MOSCOVITA</nom>
+        <duresa>2,5</duresa>
+        <lluisor>No metàl.lica, nacrada</lluisor>
+        <densitat>2,76 a 2,9</densitat>
+        <composicio>[KAl (OHF)2 AlSi3O10]</composicio>
+        <exfoliacio>Molt perfecta, en forma de full.</exfoliacio>
+        <color>Blanc, gris, verdós</color>
+        <grup>Filosilicats</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m48.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>58</id>
+        <nom>NIQUELINA</nom>
+        <duresa>5,5</duresa>
+        <lluisor>Metàl.lica</lluisor>
+        <densitat>7,8</densitat>
+        <composicio>NiAs</composicio>
+        <exfoliacio>No exfoliable. Fractura concoïdal</exfoliacio>
+        <color>vermell coure pàl.lid</color>
+        <grup>Sulfurs</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m20.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>59</id>
+        <nom>OLIVINA</nom>
+        <duresa>6,5 a 7</duresa>
+        <lluisor>No metàl.lica, vítria, transparent o translúcida</lluisor>
+        <densitat>3,27 a 4,2</densitat>
+        <composicio>[(Mg Fe)2 Si O4]</composicio>
+        <exfoliacio>Fractura regular.</exfoliacio>
+        <color>verd oliva, gris</color>
+        <grup>Neossilicat</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m75.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>60</id>
+        <nom>ÒPAL</nom>
+        <duresa>5-6</duresa>
+        <lluisor>No metàl.lica</lluisor>
+        <densitat>2,1</densitat>
+        <composicio>SiO2.nH2O</composicio>
+        <exfoliacio>No exfoliable. Apareixen petites fractures concoidals</exfoliacio>
+        <color>Incolor, blanc, groc</color>
+        <grup>Òxids</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m61.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>61</id>
+        <nom>ORTOSA</nom>
+        <duresa>6 a 6,5</duresa>
+        <lluisor>No metàl.lica, vítria, nacrada</lluisor>
+        <densitat>2,55 a 2,6</densitat>
+        <composicio>[K (Al Si3 O8)]</composicio>
+        <exfoliacio>De perfecta a imperfecta segons la direcció (90§)</exfoliacio>
+        <color>Variat, incolor</color>
+        <grup>Tectosilicats (feldespats)</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m71.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>62</id>
+        <nom>PIRITA</nom>
+        <duresa>6 a 6,5</duresa>
+        <lluisor>Metàl.lic intens</lluisor>
+        <densitat>5,02</densitat>
+        <composicio>Fe S2</composicio>
+        <exfoliacio>Fràgil. Fractura concoïdal.</exfoliacio>
+        <color>Groc</color>
+        <grup>Sulfurs</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m27.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>63</id>
+        <nom>PIROLUSITA</nom>
+        <duresa>1-2,5</duresa>
+        <lluisor>Metàl.lica</lluisor>
+        <densitat>4,7</densitat>
+        <composicio>MnO2</composicio>
+        <exfoliacio>Dificilment exfoliable</exfoliacio>
+        <color>negre</color>
+        <grup>Òxids</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m01.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>64</id>
+        <nom>PIROMORFITA</nom>
+        <duresa>3,5-4</duresa>
+        <lluisor>Metàl.lica</lluisor>
+        <densitat>7</densitat>
+        <composicio>Pb5(PO4)3Cl</composicio>
+        <exfoliacio>No exfoliable</exfoliacio>
+        <color>verd-gris, marró</color>
+        <grup>Fosfats</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m38.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>65</id>
+        <nom>PIROXMANGUITA</nom>
+        <duresa>5,5-6</duresa>
+        <lluisor>No metàl.lica</lluisor>
+        <densitat>3,9</densitat>
+        <composicio>(Mn,Fe)SiO3</composicio>
+        <exfoliacio>Exf. Perfecta</exfoliacio>
+        <color>Rosa, vermell, vermell i marró</color>
+        <grup>Inocilicats</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m69.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>66</id>
+        <nom>PIRROTINA</nom>
+        <duresa>4-4,5</duresa>
+        <lluisor>Metàl.lica</lluisor>
+        <densitat>4,6</densitat>
+        <composicio>FeS</composicio>
+        <exfoliacio>Bronze</exfoliacio>
+        <color>Clar vermellós</color>
+        <grup>Sulfurs</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m19.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>67</id>
+        <nom>PREHNITA</nom>
+        <duresa>6-6,5</duresa>
+        <lluisor>No metàl.lica, vítria</lluisor>
+        <densitat>2,9</densitat>
+        <composicio>Ca2Al(AlSiO3O10)(OH)2</composicio>
+        <exfoliacio>Perfectament exfoliable segons la base</exfoliacio>
+        <color>verd clar-blau-gris</color>
+        <grup>Fil.losilicats</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m73.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>68</id>
+        <nom>QUARS</nom>
+        <duresa>7</duresa>
+        <lluisor>No metàl.lic, vítri</lluisor>
+        <densitat>2,65</densitat>
+        <composicio>Si O2</composicio>
+        <exfoliacio>Exfloliable. Fractura concoïdal</exfoliacio>
+        <color>Molt variat</color>
+        <grup>Òxids</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m80.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>69</id>
+        <nom>RÚTIL</nom>
+        <duresa>6-6,5</duresa>
+        <lluisor>Metàl.lica</lluisor>
+        <densitat>4,2</densitat>
+        <composicio>TiO2</composicio>
+        <exfoliacio>Bona exfoliació</exfoliacio>
+        <color>marró negrós</color>
+        <grup>Òxids</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m29.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>70</id>
+        <nom>SIDERITA</nom>
+        <duresa>3,5-4,5</duresa>
+        <lluisor>Metàl.lica</lluisor>
+        <densitat>3,9</densitat>
+        <composicio>FeCo3</composicio>
+        <exfoliacio>Bona exfoliació romboèdrica</exfoliacio>
+        <color>Marró fosc</color>
+        <grup>Carbonats</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m18.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>71</id>
+        <nom>SILVINA</nom>
+        <duresa>2</duresa>
+        <lluisor>No metàl.lica, vítria</lluisor>
+        <densitat>1,99</densitat>
+        <composicio>Cl K</composicio>
+        <exfoliacio>Exfoliació cúbica perfecte</exfoliacio>
+        <color>Blanc vermellós</color>
+        <grup>Halurs</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m45.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>72</id>
+        <nom>SMITHSONITA</nom>
+        <duresa>4-5</duresa>
+        <lluisor>No metàl.lica</lluisor>
+        <densitat>4,4</densitat>
+        <composicio>ZnCO3</composicio>
+        <color>Blau,verd, blau, rosa, marró</color>
+        <foto>http://www.xtec.es/~fmas/mine/m59.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>73</id>
+        <nom>SOFRE</nom>
+        <duresa>1,5 a 2</duresa>
+        <lluisor>No metàl.lica adamantina</lluisor>
+        <densitat>1,9 a 2,2</densitat>
+        <composicio>S (sofre, és un element)</composicio>
+        <exfoliacio>Exfoliació dolenta</exfoliacio>
+        <color>Groc</color>
+        <grup>Elements</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m35.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>74</id>
+        <nom>TALC</nom>
+        <duresa>1</duresa>
+        <lluisor>No metàl.lica nacrada</lluisor>
+        <densitat>2,82</densitat>
+        <composicio>Mg3 Si4 010 (OH)2</composicio>
+        <exfoliacio>Exf. Perfecta</exfoliacio>
+        <color>verd blanc gris</color>
+        <grup>Filosilicats</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m41.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>75</id>
+        <nom>TETRAEDRITA</nom>
+        <duresa>3-3,5</duresa>
+        <lluisor>Metàl.lica</lluisor>
+        <densitat>4,9</densitat>
+        <composicio>Cu3SbS3,25</composicio>
+        <exfoliacio>No exfoliable.</exfoliacio>
+        <color>gris acer</color>
+        <grup>Sulfurs</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m13.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>76</id>
+        <nom>TURMALINA</nom>
+        <duresa>7 a 7,5</duresa>
+        <lluisor>No metàl.lica, vítria</lluisor>
+        <densitat>3 a 3,25</densitat>
+        <exfoliacio>Inexistent. Fractura concoïdal.</exfoliacio>
+        <color>Negre, verd, rosa</color>
+        <grup>Ciclosilicats</grup>
+    </ws_minerals>
+    <ws_minerals>
+        <id>77</id>
+        <nom>URANINITA</nom>
+        <duresa>5,5</duresa>
+        <lluisor>Metàl.lica</lluisor>
+        <densitat>7-10</densitat>
+        <composicio>UO2</composicio>
+        <color>negre</color>
+        <grup>Òxids</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m23.jpg</foto>
+    </ws_minerals>
+    <ws_minerals>
+        <id>78</id>
+        <nom>WOL.LASTONITA</nom>
+        <duresa>5-5,5</duresa>
+        <lluisor>No metàl.lica</lluisor>
+        <densitat>2,9</densitat>
+        <composicio>CaSiO3</composicio>
+        <exfoliacio>Perfecta</exfoliacio>
+        <color>Blanc, groc, gris</color>
+        <grup>Silicat</grup>
+        <foto>http://www.xtec.es/~fmas/mine/m63.jpg</foto>
+    </ws_minerals>
+</minerals>

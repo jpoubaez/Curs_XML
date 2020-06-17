@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Lliga ACB </name> 
+<description><![CDATA[ Descripció del fitxer ]]></description>
+<Folder>
+<name>Pavellons ACB</name>
+<Style id='basket'>
+<IconStyle>
+<scale>1.1</scale>
+<Icon>
+<href>http://tallerxml.web44.net/unitat2/basket.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<styleUrl>#basket</styleUrl> 
+<name>  FC Barcelona</name>
+<description><![CDATA[<a href="http://www.fcbarcelona.com/basketball"><img src="http://upload.wikimedia.org/wikipedia/commons/7/72/Palau_Blaugrana_03.jpg"  width="200"/></a>]]></description>
+<Point><coordinates>2.120052,41.380018</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#basket</styleUrl> 
+<name> Herbalife Gran Canaria</name>
+<description><![CDATA[<a href="http://www.cbgrancanaria.net/"><img src="http://www.antena3.com/clipping/2014/03/14/00555/30.jpg" width="200" /></a>]]></description>
+<Point><coordinates>-15.456750,28.102594</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#basket</styleUrl> 
+<name>  La Bruixa d'Or Manresa</name>
+<description><![CDATA[<br />
+<a href="http://www.basquetmanresa.com/?lang=es">
+<img src="http://static.panoramio.com/photos/large/616296.jpg" width="200" /> </a>
+<br/>]]></description>
+<Point><coordinates>1.809582,41.725350</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#basket</styleUrl> 
+<name> Tuenti MÃ³vil Estudiantes</name>
+<description><![CDATA[<a href="http://www.clubestudiantes.com/" ><img src="http://neolabels.com/wp-content/uploads/2014/07/barclaycard-center.jpg" width="200" /></a>]]></description>
+<Point><coordinates>-3.671697, 40.423866</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#basket</styleUrl> 
+<name>  Unicaja</name>
+<description><![CDATA[<br /><a href="http://http://www.unicajabaloncesto.com"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Palacio_Martin_Carpena.jpg/250px-Palacio_Martin_Carpena.jpg" width="200" /></a><br />]]></description>
+<Point><coordinates>-4.449854,36.688691</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#basket</styleUrl> 
+<name> Universidad CatÃ³lica de Murcia</name>
+<description><![CDATA[<a href="http://www.ucammurcia.com/"><img src="http://www.murciadeportes.com/web_murciadeportes/docs/1035344-Inst_deporti.jpg" width="200" /></a>]]></description>
+<Point><coordinates>-1.112970,37.993761</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#basket</styleUrl> 
+<name>Bilbao Basket</name>
+<description><![CDATA[<a href="http://www.bilbaobasket.biz/es/inicio.html">
+<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bilbao_Arena.jpg/300px-Bilbao_Arena.jpg"  width="200" />
+</a>]]></description>
+<Point><coordinates>-2.9256970000000138,43.25162400000001</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#basket</styleUrl> 
+<name> Laboral Kutxa Baskonia</name>
+<description><![CDATA[<a href="http://www.baskonia.com/"><img src="http://www.lks.es/Portals/0/Referencias/arquitectura/106240046_Buesa_arena/106250046_buesa_arena_010H.jpg" width="200" /></a>]]></description>
+<Point><coordinates> -2.641727,42.864010 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#basket</styleUrl> 
+<name> Baloncesto Sevilla</name>
+<description><![CDATA[<a href="http://www.baloncestosevilla.com/club/pabellon">
+<img src="http://sevilla.abc.es/Media/201009/14/san-pablo--644x362.jpg" width="200" />
+</a>]]></description>
+<Point><coordinates>-5.964426,37.395991</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#basket</styleUrl> 
+<name>  CAI Zaragoza</name>
+<description><![CDATA[<a href="http://www.basketzaragoza.net/el-club/pabell%C3%B3n"><img src="http://www.zetaestaticos.com/aragon/img/noticias/0/348/348323_1.jpg" width="200" /></a>]]></description>
+<Point><coordinates>-0.8658313999999336,41.6359968</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#basket</styleUrl> 
+<name>  Valencia Basket</name>
+<description><![CDATA[<a href="http://www.valenciabasket.com/" target="_blank">
+<img src="http://www.valenciabasket.com/clubtaronja/images/logobasket.jpg" />
+</a>]]></description>
+<Point><coordinates>-0.365639,39.451372</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#basket</styleUrl> 
+<name>  Iberostar Tenerife</name>
+<description><![CDATA[<a href="http://www.cbcanarias.net/front">
+<img src="http://www.elcorteingles.es/entradas/imagenWEB/recinto/Canarias/PabellonInsularSantiagoMartinLaLagunaTeneriferec.jpg" width="200" />
+</a>]]></description>
+<Point><coordinates>-16.297016,28.458448</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#basket</styleUrl> 
+<name>  MoraBanc Andorra</name>
+<description><![CDATA[<a href="http://www.bca.ad/">
+<img src="http://www.andorralavella.ad/sites/default/files/itinerari/D1000018.JPG"  width="200" />
+</a> ]]></description>
+<Point><coordinates>1.516749,42.504219</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#basket</styleUrl> 
+<name>MoraBanc Andorra</name>
+<description><![CDATA[<a href=""><img src="http://www.elperiodicdandorra.ad/images/stories/noticies/20141010ODICP02854383a50891ac.jpg" width="200" /></a><br />
+Situat a Andorra la Vella, amb capacitat per 5000 persones.]]></description>
+<Point><coordinates>1.516611,42.505411</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#basket</styleUrl> 
+<name>Valencia Basket</name>
+<description><![CDATA[<a href="http://www.valenciabasket.com/">
+<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Fonteta_Sant_Llu%C3%ADs.jpeg/800px-Fonteta_Sant_Llu%C3%ADs.jpeg" /> 
+</a>]]></description>
+<Point><coordinates>-0.366376,39.452062</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#basket</styleUrl> 
+<name>Real Madrid</name>
+<description><![CDATA[<a href="http://www.realmadrid.com/baloncesto/pabellon">
+<img src="http://upload.wikimedia.org/wikipedia/commons/4/4b/Palacio_de_Deportes_%28Madrid%29_02.jpg" width="200" />
+</a>]]></description>
+<Point><coordinates>-3.671697,40.423866</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#basket</styleUrl> 
+<name>Rio Natura Monbus Obradoiro</name>
+<description><![CDATA[< href="http://www.obradoirocab.com/webobra/index.php/es/"><img src="http://losojosdeltigre.com/competiciones/equipos/santiago/pabellon.png" width="200" /></a>]]></description>
+<Point><coordinates>-8.528770,42.875778</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#basket</styleUrl> 
+<name>FIATC Joventut</name>
+<description><![CDATA[<a href="http://www.penya.com/">     
+<img src="http://www.enciclopedia.cat/media/gec/FOTO/PALAU%20OLIMPIC%20FOTO.jpg" width="200"  />
+</a>]]></description>
+<Point><coordinates>2.231372,41.442511</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#basket</styleUrl> 
+<name>Valencia Basket</name>
+<description><![CDATA[<a href="http://www.valenciabasket.com/">  <img src="http://upload.wikimedia.org/wikipedia/commons/7/72/Palau_Blaugrana_03.jpg"  width="200" />
+</a>]]></description>
+<Point><coordinates>2.120052,41.380018 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#basket</styleUrl> 
+<name>Montakit Fuenlabrada</name>
+<description><![CDATA[<a href="http://www.baloncestofuenlabrada.com/"><img src="http://www.sermadridsur.com/multimedia/imagenes/noticias_28242_640x480.jpg" width="200" /></a>]]></description>
+<Point><coordinates>-3.800596,40.282628</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#basket</styleUrl> 
+<name>Valencia Basket</name>
+<description><![CDATA[<a href="http://www.valenciabasket.com/index.php?id=elclub&club=pabellon">
+<img src="http://www.valenciabasket.com/gestion/imagenes/subidas/img_secciones/panoramicaexterior.jpg" width="200"/> 
+</a> ]]></description>
+<Point><coordinates>-0.366146,39.451682</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#basket</styleUrl> 
+<name>Gipuzkoa Basket</name>
+<description><![CDATA[<a href="http://www.gipuzkoabasket.com/"><img src="http://www.diariovasco.com/prensa/noticias/200908/08/fotos/4003121.jpg" width="200" /></a>]]></description>
+<Point><coordinates>-1.970326,43.301208</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#basket</styleUrl> 
+<name>MoraBanc Andorra</name>
+<description><![CDATA[<a href="http://www.bca.ad/"><img src="https://pbs.twimg.com/media/BzU1rziIIAA44oH.jpg:large" width="200" /></a>]]></description>
+<Point><coordinates>1.5162923,42.5051504</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#basket</styleUrl> 
+<name>  Baloncesto Sevilla</name>
+<description><![CDATA[<a href="http://www.baloncestosevilla.com/"><img src="http://sevilla.abc.es/Media/201204/04/OBJ2717289_1--644x353.jpg" width="200" /> </a> <br />
+El Club Deportivo Baloncesto Sevilla (CDB Sevilla) Ãs el nom del principal club de bÃ squet de la ciutat de Sevilla. Va ser fundat l'any 1987.]]></description>
+<Point><coordinates>-5.964188000000036,37.39527</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>
