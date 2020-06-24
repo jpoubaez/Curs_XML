@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<musica>
+  <canco>
+    <artista>Southside Johnny</artista>
+    <album>Better Days</album>
+    <titol>Too Hard</titol>
+    <genere>Rock</genere>
+    <portada>https://tallerxmljpou.000webhostapp.com/portades/rory.jpeg</portada>
+    <audio>https://tallerxmljpou.000webhostapp.com/musica/TooHard.mp3</audio>
+  </canco>
+  <canco>
+    <artista>Southside Johnny</artista>
+    <album>Better Days</album>
+    <titol>Walk Away</titol>
+    <genere>Rock</genere>
+    <portada>https://tallerxmljpou.000webhostapp.com/portades/cover.jpg</portada>
+    <audio>https://tallerxmljpou.000webhostapp.com/musica/WalkAway.mp3</audio>
+  </canco>
+  <canco>
+    <artista>Southside Johnny</artista>
+    <album>Better Days</album>
+    <titol>Way Home</titol>
+    <genere>Rock</genere>
+    <portada>https://tallerxmljpou.000webhostapp.com/portades/front.jpg</portada>
+    <audio>https://tallerxmljpou.000webhostapp.com/musica/WayHome.mp3</audio>
+  </canco>
+</musica>

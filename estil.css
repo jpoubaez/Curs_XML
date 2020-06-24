@@ -93,7 +93,19 @@ body {
   position: fixed;
   top: 0px;
   width: 100%;
+  text-align: center;
+}
 
+#kkk {
+  box-shadow: 0px 0px 5px 5px #808080;
+  background-color: #c1bdba ;
+  color: white;
+  padding: 12px;
+  margin: auto;
+  margin-bottom: 0px;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
   text-align: center;
 }
 

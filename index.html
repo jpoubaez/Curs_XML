@@ -10,9 +10,20 @@
 
   gtag('config', 'UA-168167986-1');
 
-  function compruebaAceptaCookies() {
-      if(localStorage.aceptaCookies == 'true'){
+    function compruebaAceptaCookies() {
+      if(localStorage.getItem('aceptaCookies') == 'true'){
         cajacookies.style.display = 'none';
+      }
+      else {
+        cajacookies.style.display = 'block';
+      }
+    }
+    function kk() {
+      if(localStorage.getItem('aceptaCookies') == 'true'){
+        kkk.style.display = 'block';
+      }
+      else {
+        kkk.style.display = 'none';
       }
     }
 
@@ -20,13 +31,19 @@
     aceptado el uso de cookies asÃ­ no mostraremos
     el mensaje de nuevo */
     function aceptarCookies() {
-      localStorage.aceptaCookies = 'true';
+      localStorage.setItem('aceptaCookies', 'true') 
       cajacookies.style.display = 'none';
+      kk();
+      compruebaAceptaCookies();
     }
 
     /* Ã©sto se ejecuta cuando la web estÃ¡ cargada */
     $(document).ready(function () {
+        localStorage.setItem('aceptaCookies', 'true');
       compruebaAceptaCookies();
+      kk();
+      kkk.style.display = 'none';
+      cajacookies.style.display = 'none';
     });
 </script>
 <TITLE>Portfolio d'en Joan Pou Unitat 1</TITLE>
@@ -97,6 +114,12 @@
         </ul>
     </div>
 
+</div>
+
+
+<div id="kkk">
+    <p>
+    això és dins de kkkkk .</p><br />
 </div>
 
 <div id="cajacookies">

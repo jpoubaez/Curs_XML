@@ -1,7 +1,7 @@
 <?php
 
 //$conn=mysqli_connect("local","usuari","contrasenya","Base_Dades"); 
-$conn=mysqli_connect("localhost","id13758673_joanpou","J1anpoubaez_","id13758673_prova_rss");
+$conn=mysqli_connect("localhost","root","","minerals");
 
 
 if(isset($_REQUEST["grup"])) $grup = $_REQUEST["grup"];
