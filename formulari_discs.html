@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<meta charset="UTF-8" />
+<title>Formulari Mobile</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/jquery.mobile/1.0.1/jquery.mobile-1.0.1.min.css">
+<script src="https://ajax.aspnetcdn.com/ajax/jquery.mobile/1.0.1/jquery.mobile-1.0.1.min.js"></script>
+
+<script type="text/javascript">
+	function validaForm(){
+    // Campos de texto
+    alert("formulari"); 
+    if($("#nom").val() == ""){
+        alert("El camp Nom no pots estar buit.");
+        $("#nom").focus();   // Col.loca el focus
+        return false;
+    }
+    if($("#email").val() == ""){
+        alert("El camp email no pot estar buit.");
+        $("#email").focus();
+        return false;
+    }
+
+    if($("#edat").val() < 10 || $("#edat").val() >90 ){
+        alert("El camp edat ha d'estar entre 10 i 90 anys .");
+        $("#edat").focus();
+        return false;
+}
+
+    // I aixi la resta de validacions 
+
+    return true; // Si todo está correcto
+}
+
+$(document).ready( function() {   // Esta parte del código se ejecutará automáticamente cuando la página esté lista.
+    $("#enviar").click( function() {     // Con esto establecemos la acción por defecto 
+    	alert("per enviar"); 
+        if(validaForm()){ 
+        	    alert("anem a enviar");
+                 $.post("gravar.php",$("#formdata").serialize(),function(res){
+                	alert(res); 
+                 if(res == 1){
+                    document.getElementById("fitxa").innerHTML = "S'ha gravat correctament"; 
+                } else {
+                    document.getElementById("fitxa").innerHTML = "S'ha gravat malament"; 
+                }
+            });
+        }
+        else {
+            alert("No pot enviar");
+        }
+    });    
+});
+
+
+
+
+		</script>
+
+</head>
+
+<body>
+<div data-role="page" data-theme="b">
+<div data-role="header" data-theme="e">
+<h1> Formulari </h1>
+</div>
+<div data-role="content">
+	<div = "formulari">
+<form action="formdata" method="post" id="formdata">
+
+<label for="nom">Nom</label>
+<input type="text" id="nom" name="nom" />
+
+<label for="email">email</label>
+<input type="email" id="email" name="email" />
+<label for="comentaris">Comentaris</label>
+<textarea name="comentaris" id="comentaris" ></textarea>
+<label for="edat">Edat</label>
+<input type="range" id="edat" name="edat" min="0" max="120" />
+<br />
+<label for="Discos">Discos</label>
+<select id="Discos" name="Discos" >
+<option value="0"> Selecciona disc </option>
+</select>
+<input type="submit" id="enviar" name="submit" value="Enviar" />
+</form>
+</div>
+<div id="fitxa">
+	<img id="foto" src="" />
+</div>	
+<div data-role="footer" data-theme="b">
+	<div id="res"></div>
+<h4></h4>
+</div>
+</div>
+</div>
+</body>
+<script type="text/javascript" >
+    //
+$.ajax({
+type: "GET",
+url: "https://script.google.com/macros/s/AKfycbwhaUpQgYZvyKlm7XObi9YMUXRBNhfSGIaSl0oBNOG9Z5Tm7N8/exec?accio=xml&id=0&metode=llista",
+dataType: "xml",
+success: function(xml) {
+var select = $('#Discos');
+$(xml).find('disc').each(function(){
+var nom = $(this).find('titol').text();
+var id = $(this).find('id').text();
+select.append("<option value='"+ id +"'>"+nom+"</option>");
+});
+}
+});
+
+
+
+</script>
+</html>

@@ -18,22 +18,13 @@
         cajacookies.style.display = 'block';
       }
     }
-    function kk() {
-      if(localStorage.getItem('aceptaCookies') == 'true'){
-        kkk.style.display = 'block';
-      }
-      else {
-        kkk.style.display = 'none';
-      }
-    }
-
+  
     /* aquÃ­ guardamos la variable de que se ha
     aceptado el uso de cookies asÃ­ no mostraremos
     el mensaje de nuevo */
     function aceptarCookies() {
       localStorage.setItem('aceptaCookies', 'true') 
       cajacookies.style.display = 'none';
-      kk();
       compruebaAceptaCookies();
     }
 
@@ -41,8 +32,6 @@
     $(document).ready(function () {
         localStorage.setItem('aceptaCookies', 'true');
       compruebaAceptaCookies();
-      kk();
-      kkk.style.display = 'none';
       cajacookies.style.display = 'none';
     });
 </script>
@@ -73,6 +62,7 @@
             <li><a href="./#" class="active">Unitat 1</a></li>
             <li><a href="projecte2.html">Projecte 2</a></li>
             <li><a href="projecte3.html">Projecte 3</a></li>
+            <li><a href="projecte4.html">Projecte 4</a></li>
         </ul>
 
     </div>
@@ -111,15 +101,10 @@
             <li><a href="./#" class="active">Unitat 1</a></li>
             <li><a href="projecte2.html">Projecte 2</a></li>
             <li><a href="projecte3.html">Projecte 3</a></li>
+            <li><a href="projecte4.html">Projecte 4</a></li>
         </ul>
     </div>
 
-</div>
-
-
-<div id="kkk">
-    <p>
-    això és dins de kkkkk .</p><br />
 </div>
 
 <div id="cajacookies">
