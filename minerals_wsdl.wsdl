@@ -1,0 +1,67 @@
+<definitions xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="urn:foto" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns="http://schemas.xmlsoap.org/wsdl/" targetNamespace="urn:foto">
+<types>
+<xsd:schema targetNamespace="urn:foto">
+<xsd:import namespace="http://schemas.xmlsoap.org/soap/encoding/"/>
+<xsd:import namespace="http://schemas.xmlsoap.org/wsdl/"/>
+<xsd:complexType name="Dades_fitxa">
+<xsd:all>
+<xsd:element name="composicio" type="xsd:string"/>
+<xsd:element name="grup" type="xsd:string"/>
+<xsd:element name="color" type="xsd:string"/>
+<xsd:element name="densitat" type="xsd:string"/>
+<xsd:element name="foto" type="xsd:string"/>
+</xsd:all>
+</xsd:complexType>
+</xsd:schema>
+</types>
+<message name="fotoRequest">
+<part name="mineral" type="xsd:string"/>
+</message>
+<message name="fotoResponse">
+<part name="return" type="xsd:string"/>
+</message>
+<message name="fitxaRequest">
+<part name="mineral" type="xsd:string"/>
+</message>
+<message name="fitxaResponse">
+<part name="return" type="tns:Dades_fitxa"/>
+</message>
+<portType name="fotoPortType">
+<operation name="foto">
+<documentation>Ens dona una llista de productes de cada categorÃ­a</documentation>
+<input message="tns:fotoRequest"/>
+<output message="tns:fotoResponse"/>
+</operation>
+<operation name="fitxa">
+<documentation>L'ordre de retorn es = composicio,grup,color,densitat i foto </documentation>
+<input message="tns:fitxaRequest"/>
+<output message="tns:fitxaResponse"/>
+</operation>
+</portType>
+<binding name="fotoBinding" type="tns:fotoPortType">
+<soap:binding style="rpc" transport="http://schemas.xmlsoap.org/soap/http"/>
+<operation name="foto">
+<soap:operation soapAction="urn:foto#foto" style="rpc"/>
+<input>
+<soap:body use="encoded" namespace="urn:foto" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+</input>
+<output>
+<soap:body use="encoded" namespace="urn:foto" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+</output>
+</operation>
+<operation name="fitxa">
+<soap:operation soapAction="urn:fitxa#fitxa" style="rpc"/>
+<input>
+<soap:body use="encoded" namespace="urn:fitxa" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+</input>
+<output>
+<soap:body use="encoded" namespace="urn:fitxa" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+</output>
+</operation>
+</binding>
+<service name="foto">
+<port name="fotoPort" binding="tns:fotoBinding">
+<soap:address location="https://tallerxmljpou.000webhostapp.com:443/minerals_wsdl.php"/>
+</port>
+</service>
+</definitions>

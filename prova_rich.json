@@ -1,0 +1,31 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Recipe", 
+  "name": "Arròs amb cloïsses",
+  "image": "https://cdn.pixabay.com/photo/2015/04/07/00/56/paella-710327_960_720.jpg",
+  "description": "Sofregim alls i cebes. Tirem les cloïsses que s'obrin, l'arròs i ho cobrim amb brou. Deixem coure uns 13 minuts. I llavors tapat 4 minuts.",
+  "keywords": "arròs cloïsses",
+  "author": {
+    "@type": "Person",
+    "name": "Joan"
+  },
+  "datePublished": "2020-06-28",
+  "prepTime": "PT5M",
+  "cookTime": "PT35M", 
+  "totalTime": "PT40M", 
+  "recipeCategory": "entree", 
+  "recipeCuisine": "Catalana", 
+  "recipeYield": "4", 
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "69 cal"
+  },
+  "recipeIngredient": [
+    "1 Ceba",
+    "2 grans d'all",
+    "300 g cloïsses",
+    "4 mides d'arròs"
+  ]  
+}
+</script>
