@@ -1,0 +1,225 @@
+/*
+Puedes añadir tu propio CSS aquí.
+
+Haz clic en el icono de ayuda de arriba para averiguar más.
+*/
+
+body, h1, h2, h3, h4, h5, h6, .saboxplugin-wrap .saboxplugin-authorname, .saboxplugin-desc {
+	font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif !important;
+}
+
+.mh-custom-header{
+	overflow: hidden;
+}
+
+.mh-header-image{
+	/*margin-left: -50%;*/
+}
+
+#menu-menu-1 .search-field{
+	margin-top: 7px;
+	padding: 7px;
+	margin-left: 50px;
+}
+
+h2.concert_header{
+	font-size: 1.04rem !important;
+	font-weight: normal !important;
+}
+
+.mh-container{
+	max-width: 1280px;
+}
+
+.mh-custom-header{
+	background-color: #000000;
+	text-align: center;
+}
+
+.entry-thumbnail{
+	max-width: 100%;
+}
+
+.mh-author-box, .mh-post-nav{
+	display: none;
+}
+
+.mh-loop-content{
+	float: left;	
+}
+
+.mh-content-full-width{
+	width: 100%;
+}
+
+.video-container {
+	position: relative;
+	padding-bottom: 56.25%;
+	padding-top: 30px;
+	height: 0;
+	overflow: hidden;
+	margin-bottom: 10px;
+}
+
+.video-container iframe,  
+.video-container object,  
+.video-container embed {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.entry-content img, 
+.entry-content iframe, 
+.entry-content object, 
+.entry-content embed {
+        max-width: 100%;
+}
+
+.rating_big{
+	font-size: 48px;
+	font-weight: bold;
+}
+
+.rating_small{
+	font-size: 26px;
+	font-weight: normal;
+}
+
+.dashicons{
+	font-size: 30px;
+}
+
+.mh-loop .rating_big{
+	font-size: 18px !important;
+}
+
+.mh-loop .rating_small{
+	font-size: 13px !important;
+}
+
+.mh-loop .dashicons{
+	font-size: 15px !important;
+}
+
+.shortcode-star-rating{
+	padding: 0px !important;
+}
+
+.mh-loop-excerpt .shortcode-star-rating{
+	padding-right: 5px !important;
+}
+
+.mh-meta-comments, .fa-clock-o{
+	display: none;
+}
+
+.otw-row .sharedaddy, .mh-sidebar .sharedaddy, .otw-row .mh-meta-author, .su-post-comments-link{
+	display: none;	
+}
+
+.otw-row .widgettitle{
+	padding-top: 20px;
+	border-bottom: 3px solid #e64946;	 text-transform: uppercase;	
+}
+
+.otw-row .mh-posts-large-title{
+  margin-bottom: 0em;
+}
+
+.mh-main-nav-wrap{
+	background-color: #000000;
+	border-top: 2px solid #e64946;
+}
+
+#mh_magazine_lite_posts_stacked-14 .mh-posts-stacked-item{
+	display: none !important;
+}
+
+#subscribe-submit input{
+	font-weight: normal;
+	margin-top: 5px;
+	padding: 5px 10px;
+	min-width: auto;
+	float: right;	
+}
+
+.agenda-content{
+	width: 100% !important;
+}
+
+.agenda_day_container{
+	margin-top: -20px;
+	text-align: center;
+	display: flex;
+	flex-flow: row wrap;
+}
+
+.concert_container{
+	flex-basis: 30%;
+	padding-top: 20px;
+	text-align: center;
+	margin: auto;
+	float: left;
+	padding-right: 2%;
+}
+
+.agenda-content h4{
+	margin-top: 30px;
+}
+
+.agenda_festival{
+	margin-top: 10pt;
+	font-size: 16pt;
+	font-weight: bold;
+}
+
+.agenda_bandas{
+	margin-top: 10pt;
+	padding-left: 10pt;
+	padding-right: 10pt;
+	font-size: 12pt;
+}
+
+.agenda_bandas_main{
+	font-weight: bold;
+	font-size: 14pt;
+}
+
+.concert_image{
+	
+}
+
+.concert-image img{
+	float: left;
+}
+
+.agenda_venue{
+	font-size: 13pt;
+	margin-top: 20px;
+	/*font-style: italic;*/
+}
+
+.agenda_city{
+	font-weight: bold;
+	font-size: 13pt;
+}
+
+.force_fest_height{
+	min-height: 750px;
+}
+
+@media only screen and (max-width: 900px){
+	.concert_container{
+		flex-basis: 48% !important;
+	}
+}
+
+@media only screen and (max-width: 500px){
+	.concert_container{
+		flex-basis: 98% !important;
+		min-height: 0px !important;
+	}
+}

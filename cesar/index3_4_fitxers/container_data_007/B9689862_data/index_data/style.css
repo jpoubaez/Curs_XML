@@ -1,0 +1,134 @@
+/**
+ * adcouncilSmokeyBirthdayPlains300x250 - An HTML banner
+ * @version v1.0.0
+ * @date 3-27-2019 at 16:49:20
+ */
+
+html {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    text-rendering: optimizeLegibility
+}
+
+body,
+body * {
+    vertical-align: baseline;
+    border: 0;
+    outline: 0;
+    padding: 0;
+    margin: 0;
+    font: 100%/1.5 Arial, sans-serif
+}
+
+#container_ad {
+    -ms-transform-origin: 0% 0%;
+    -webkit-transform-origin: 0% 0%;
+    -moz-transform-origin: 0% 0%;
+    -o-transform-origin: 0% 0%;
+    position: absolute;
+    width: 160px;
+    height: 600px;
+    overflow: hidden;
+    border: 1px solid #666666;
+    box-sizing: border-box;
+    top: 0px;
+    left: 0px;
+    margin: auto;
+    display: none
+}
+
+#content_ad {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    z-index: 100;
+    background: #fff
+}
+
+#content_ad div {
+    height: 600px;
+    left: -1px;
+    position: absolute;
+    top: -1px;
+    width: 160px
+}
+
+#background_exit_ad {
+    background: url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7") 0 0 repeat;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    cursor: pointer;
+    z-index: 400
+}
+
+:focus {
+    outline: none
+}
+
+::-moz-focus-inner {
+    border: 0
+}
+
+#bkgd {
+    background: url("../images/bkgd.png");
+    background-size: cover
+}
+
+#sky {
+    background: url("../images/sky.jpg");
+    background-size: cover
+}
+
+#foreground {
+    background: url("../images/foreground.png");
+    background-size: cover
+}
+
+#sky {
+    background: url("../images/sky.jpg");
+    background-size: cover
+}
+
+#smokey {
+    background: url("../images/smokey.png");
+    background-size: cover
+}
+
+#text1 {
+    background: url("../images/text1.png");
+    background-size: cover
+}
+
+#text2 {
+    background: url("../images/text2.png");
+    background-size: cover
+}
+
+#logo75th {
+    background: url("../images/75th.png");
+    background-size: cover
+}
+
+#logos {
+    background: url("../images/logos.png");
+     background-size: 600px 500px;
+      background-repeat: no-repeat;
+}
+
+#cta {
+    background: url("../images/cta.png");
+    background-size: cover
+}
+
+#white {
+    background: rgba(255, 255, 255, 0.67)
+}
+
+.endframe {
+    opacity: 0
+}

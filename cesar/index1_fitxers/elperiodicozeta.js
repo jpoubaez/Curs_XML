@@ -1,0 +1,12 @@
+Site_conf={"element_location_reference":"smartAvaReference","ava":{"mobile":{"enabled":true,"keepFixed":false,"initFixed":true,"onscroll":true,"skipOffset":0,"skipText":"","hardSkip":0,"freq":3,"nonstop":true,"position":{"horizontal":"right","vertical":"bottom"},"playerHeight":113,"playerWidth":200,"player_margin_bottom":5,"player_margin_right":5,"player_margin_top":100,"margin_top":0,"margin_bot":0,"fixedClass":"fixed_intext_sc_mob_v1","css":[],"js":[],"smaracd_player":"es.elperiodicozeta.ava.smartclip"},"web":{"enabled":true,"keepFixed":false,"initFixed":true,"onscroll":true,"skipOffset":0,"skipText":"","hardSkip":0,"freq":3,"nonstop":true,"position":{"horizontal":"right","vertical":"bottom"},"playerHeight":196.875,"playerWidth":350,"player_margin_bottom":5,"player_margin_right":5,"player_margin_top":60,"margin_top":0,"margin_bot":0,"fixedClass":"fixed_intext_sc_v1","css":[],"js":[],"smaracd_player":"es.elperiodicozeta.ava.smartclip"}},"inphoto":{"mobile":{"enabled":false,"skipOffset":0,"skipText":"","hardSkip":5,"frequence":0,"impsPerPageLoaded":1,"minWidth":290,"smaracd_player":"es.elperiodicozeta.inphoto.smartclip","single_tag":false},"web":{"enabled":false,"skipOffset":0,"skipText":"","hardSkip":5,"frequence":0,"impsPerPageLoaded":1,"minWidth":290,"smaracd_player":"es.elperiodicozeta.inphoto.smartclip","single_tag":false}},"intxt":{"positioning":{"customLocation":false,"refElement":"","refChild":"","position":0,"posSelector":"afterend","customJavaScript":function () {
+				setInterval(function () {
+					var height = SmartAva.utils.isMobile() ? "220px" : "90px";
+					if (typeof sc_iframe_width_flag == "undefined" && SmartAva.utils.isMobile()) {
+						document.querySelectorAll("[id^=smartIntxt] > iframe")[0].style.maxWidth = '500px';
+						sc_iframe_width_flag = true;
+					}
+					if (document.getElementsByClassName("sticky-bottom")[0] || document.getElementsByClassName("container-carousel-articles")[0]) {
+						if (document.getElementById("smartIntxt") && document.getElementById("smartIntxt").classList.contains(Site_conf.ava[SmartAva.utils.isMobile() ? "mobile" : "web"].fixedClass)) document.getElementById("smartIntxt").style.marginBottom = height;
+					}
+				}, 1000)
+			}},"mobile":{"enabled":true,"skipOffset":0,"skipText":"","hardSkip":0,"freq":0,"nonstop":true,"minWidth":190,"smaracd_player":"es.elperiodicozeta.intxt.smartclip"},"web":{"enabled":false,"skipOffset":0,"skipText":"","hardSkip":0,"freq":0,"nonstop":false,"minWidth":190,"smaracd_player":"es.elperiodicozeta.intxt.smartclip"}}}

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <script type="text/javascript">
+      alert = prompt = confirm = function() { return "method not allowed" };
+      window.addEventListener("message", function (e) {
+        var result = "";
+        try {
+          result = eval(e.data.code) || "";
+        } catch (err) {
+          result = "error - eval() : " + (err.message || err);
+          console.error(result);
+        }
+        e.source.postMessage({ event: e.data.event, code: result }, e.origin);
+      });
+    </script>
+  </head>
+  <body>
+    <!-- This iframe is used as an cross domain iframe to sandbox display creatives -->
+  
+
+</body></html>

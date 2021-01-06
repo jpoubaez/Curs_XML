@@ -1,0 +1,127 @@
+(function () {
+    SmartIntxt = {
+        config: {
+            outstream_manager: "https://cdn.smartclip-services.com/v1/Storage-a482323/smartclip-services/ava/ava.js",
+            site_name: 'elperiodicozeta',
+            playerHTML5: 'es.elperiodicozeta.intxt.smartclip',
+            placement: '',
+            elementContainer: 'smartIntxt',
+            minAdWidth: '190',
+            maxAdWidth: '1900',
+            customLocation: true,
+            positioning: function () {
+                var config = Site_conf.intxt.positioning;
+                if (!config.customLocation) return;
+
+                config.deviceSettings = Site_conf.ava[SmartAva.utils.isMobile() ? "mobile" : "web"];
+                var urlReference = SmartIntxt.config.elementContainer;
+                var configReference = config.refChild === "" ? config.refElement : config.refElement + ">" + config.refChild;
+
+                var videoContainerCreator = {
+                    checkReference: function (reference) {
+                        if (videoContainerCreator.getElementsBySelector(reference).length !== 0) return true;
+                        if (reference.charAt(0) !== "#" && reference.charAt(0) !== ".") {
+                            if (videoContainerCreator.getElementsBySelector(videoContainerCreator.createSelector(reference, "#")).length !== 0) return true;
+                            if (videoContainerCreator.getElementsBySelector(videoContainerCreator.createSelector(reference, ".")).length !== 0) return true;
+                        }
+                    },
+                    checkReferenceById: function (reference) {
+                        if (videoContainerCreator.getElementsBySelector(videoContainerCreator.createSelector(reference, "#")).length !== 0) return true;
+                    },
+                    findCssSelector: function (reference) {
+                        if (videoContainerCreator.getElementsBySelector(reference).length !== 0) return reference;
+                        if (reference.charAt(0) !== "#" && reference.charAt(0) !== ".") {
+                            if (videoContainerCreator.getElementsBySelector(videoContainerCreator.createSelector(reference, "#")).length !== 0) return videoContainerCreator.createSelector(reference, "#");
+                            if (videoContainerCreator.getElementsBySelector(videoContainerCreator.createSelector(reference, ".")).length !== 0) return videoContainerCreator.createSelector(reference, ".");
+                        }
+                    },
+                    getElementsBySelector: function (selector) {
+                        var result = document.querySelectorAll(selector);
+                        if (result.length === 0) result = top.document.querySelectorAll(selector);
+                        return result;
+                    },
+                    createSelector: function (reference, selectorIdentifier) {
+                        return selectorIdentifier + reference;
+                    },
+                    createVideoContainer: function (reference, positionSelector, referenceChild = 0) {
+                        var containerId = "smartIntxt-" + Math.round(Math.random() * 1e8);
+                        var domReference = videoContainerCreator.getElementsBySelector(reference)[referenceChild];
+                        var videoContainer = '<div id="' + containerId + '"></div>';
+                        domReference.insertAdjacentHTML(positionSelector, videoContainer);
+                        return containerId;
+                    }
+                };
+
+                var videoPositioninigInformation = {
+                    existUrlReference: urlReference !== "" && videoContainerCreator.checkReferenceById(urlReference),
+                    existConfigReference: configReference !== "" && videoContainerCreator.checkReference(configReference),
+                    configCssSelectorInPage: function () {
+                        if (videoPositioninigInformation.existConfigReference) return videoContainerCreator.findCssSelector(configReference);
+                    },
+                    isJumpEnabled: config.deviceSettings.enabled && config.deviceSettings.keepFixed,
+                };
+
+                function videoContainerPositioner() {
+                    if (videoPositioninigInformation.existUrlReference) return;
+                    if (videoPositioninigInformation.existConfigReference) {
+                        SmartIntxt.config.elementContainer = videoContainerCreator.createVideoContainer(videoPositioninigInformation.configCssSelectorInPage(), config.posSelector, config.position);
+                        return;
+                    }
+                    if (config.deviceSettings.keepFixed) {
+                        SmartIntxt.config.elementContainer = videoContainerCreator.createVideoContainer("body", "beforeend");
+                    } else {
+                        SmartIntxt.config.elementContainer = "";
+                    }
+                }
+
+                videoContainerPositioner();
+            }
+        },
+        "init": function () {
+            minWidth = (SmartIntxt.config.minAdWidth !== "" ? SmartIntxt.config.minAdWidth : 320);
+            maxWidth = (SmartIntxt.config.maxAdWidth !== "" ? SmartIntxt.config.maxAdWidth : 900);
+            /* var smartclipconfig = document.createElement("script");
+            var url = SmartAva.config.smartclipConfig;
+            smartclipconfig.type = "text/javascript";
+            smartclipconfig.src = url;
+            document.body.appendChild(smartclipconfig); */
+            var sc = document.createElement('script');
+            sc.type = 'text/javascript';
+            sc.async = 'true';
+            sc.src = '//dco.smartclip.net/?plc=104335';
+            sc.onload = sc.onreadystatechange = function () {
+                var rs = this.readyState;
+                if (rs && rs !== 'complete' && rs !== 'loaded') return;
+                try {
+                    SmartPlay(SmartIntxt.config.elementContainer, {
+                        adRequest: '//ad.sxp.smartclip.net/select?type=dyn&ple=' + SmartIntxt.config.playerHTML5 + '~' + SmartIntxt.config.placement + '~400x320&cu_smar_cors=1&smar_cors=1&ang_contxt=1&fwd_dt1=&fwd_dt2=&fwd_sz=400x320&&ang_ref=&inswipe=[ALLOWINSWIPE]&optout=&ang_tpl=2&consent=&rnd=99637448',
+                        minAdWidth: minWidth,
+                        maxAdWidth: maxWidth,
+                        elementLocator: {
+                            allowInViewport: false,
+                            minimumElementWidth: 320,
+                            scanPixelsBelowViewport: 800
+                        },
+                        skipText: Site_conf.ava_desk.skipText,
+                        skipOffset: Site_conf.ava_desk.skipOffset, // overriden by VAST3 skipoffset, value of 0 will not show a skip button 0.1 will immediately show a ckip button
+                        behaviourMatrix: {
+                            'offScreen': {
+                                paused: false,
+                                muted: true
+                            }
+                        },
+                        onStartCallback: (function () { try { SmartAva.utils.ava_sc_smartIntxtStart(); sc_smartIntxtStart(); } catch (f) { } }),
+                        onCappedCallback: (function () { try { SmartAva.utils.ava_sc_smartIntxtNoad(); sc_smartIntxtNoad(); } catch (f) { } }),
+                        onEndCallback: (function () { try { SmartAva.utils.ava_sc_smartIntxtEnd(); sc_smartIntxtEnd(); } catch (f) { } })
+                    });
+                } catch (e) { console.warn('error caught: ' + e); }
+            };
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(sc, s);
+        }
+    };
+    var om_loader = document.createElement("script");
+    om_loader.type = "text/javascript";
+    om_loader.src = SmartIntxt.config.outstream_manager;
+    document.body.appendChild(om_loader);
+})();
