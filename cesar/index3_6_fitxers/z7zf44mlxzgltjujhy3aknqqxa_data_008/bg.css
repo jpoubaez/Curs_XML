@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Santral';
+  src: url('../assets/fonts/Santral-SemiBold.eot');
+  src: url('../assets/fonts/Santral-SemiBold.eot?#iefix') format('embedded-opentype'),
+  url('../assets/fonts/Santral-SemiBold.woff2') format('woff2'),
+  url('../assets/fonts/Santral-SemiBold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}

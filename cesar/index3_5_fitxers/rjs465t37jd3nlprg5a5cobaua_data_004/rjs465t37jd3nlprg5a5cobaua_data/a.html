@@ -1,0 +1,111 @@
+
+raiOOPTarget = window;
+
+while(raiOOPTarget != raiOOPTarget.window.parent){
+raiOOPTarget = raiOOPTarget.window.parent;
+raiOOPTarget.testIframe = true;
+}
+
+raiOOPTarget.raiEnvIP = "147.161.114.0";
+raiOOPTarget.raiEnvUA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0";
+raiOOPTarget.raiEnvCountry = "ES";
+raiOOPTarget.raiEnvDevice = "desktop";
+raiOOPTarget.raiEnvRef = "";
+raiOOPTarget.raiEnvRefDomain = "";
+raiOOPTarget.raiEnvRandom = "61428994534";
+if(typeof raiOOPTarget.raiCntCSS == 'undefined'){
+raiOOPTarget.raiCntCSS = "";
+}
+if(typeof raiOOPTarget.raiCntJS == 'undefined'){
+raiOOPTarget.raiCntJS = "";
+}
+
+
+    raiOOPTarget.hasConsent = "1";
+    
+raiOOPTarget.raiCertID = "7b52a91da23a610b133bcb13e2561fac";
+
+// raiOOPTarget.raiOOPassback = function() {
+//      var raiScript = document.createElement("script");
+//     raiScript.id = "raiScript"
+//     raiScript.src = "//ced.sascdn.com/tag/2986/smart.js";
+//     raiScript.setAttribute("type","application/javascript");
+//     raiScript.setAttribute("async","async");
+//     var raiDiv = document.createElement('div');
+//     raiDiv.id = "sas_62799";
+//     var raiScript2 = document.createElement('script');
+//     raiDiv.id = "raiScript2";
+//     raiScript2.innerHTML = "var sas = sas || {}; sas.cmd = sas.cmd || [];" +
+//     "sas.cmd.push( function () { sas.call(" +
+//     "{ siteId: 308273, pageId: 1116888, formatId: 62799, tagId: 'sas_62799' },'" +
+//     "{ networkId: 2986, domain: '//www8.smartadserver.com' /*, onNoad: function() {} */ } );});";
+//
+//
+//     raiOOPTarget.document.body.appendChild(raiScript);
+//     raiOOPTarget.document.body.appendChild(raiDiv);
+//     raiOOPTarget.document.body.appendChild(raiScript2);
+// }
+
+/*
+    var raiScript = document.createElement("script");
+    raiScript.id = "raiScript"
+    raiScript.src = "https://www.googletagservices.com/tag/js/gpt.js";
+    raiScript.innerHTML = "  googletag.pubads().definePassback('/15347505/la_razon/passback_skinz_skin', [1, 1]).setTargeting('pos', ['intersticial']).display();"
+    raiOOPTarget.document.body.appendChild(raiScript);
+*/
+
+raiOOPTarget.raiOOPassback = function() {
+
+  var raiBodyPass = raiOOPTarget.document.body;
+  raiPassback = document.createElement('script');
+  raiPassback.type = 'text/javascript';
+  raiPassback.id = "raiPassback";
+  raiPassback.src = "https://es.ads.justpremium.com/adserve/js.php?zone=28460";
+  raiBodyPass.insertBefore(raiPassback, raiBodyPass.firstChild);
+
+}
+
+        if(typeof raiOOPPidForced != 'undefined'){
+        raiOOPTarget.raiOOPPidhI521IjvAc = raiOOPPidForced;
+        }else{
+        raiOOPTarget.raiOOPPidhI521IjvAc = "kONoeH1tWC";
+        }
+
+
+        if(typeof raiOOPTarget.raiCertID != 'undefined' && raiOOPTarget.raiCertID != '' ){
+                    raiOOPTarget.raiCntCSS = "https://rosetta.richmediastudio.com/c/"+raiOOPTarget.raiCertID+"/cert.css";
+            raiOOPTarget.raiCntJS = "https://rosetta.richmediastudio.com/c/"+raiOOPTarget.raiCertID+"/cert.js";
+                    }
+
+        if(raiOOPTarget.raiCntCSS!=="" && raiOOPTarget.raiCntJS!==""){
+        if(raiOOPTarget.document.getElementById('raiCntJSObj') === null) {
+        if(typeof raiCntJSObj == 'undefined'){var raiCntJSObj = "";}
+        raiCntJSObj = raiOOPTarget.document.createElement('script');
+        raiCntJSObj.type = "text/javascript";
+        raiCntJSObj.async = "async";
+        raiCntJSObj.src = raiOOPTarget.raiCntJS;
+        raiOOPTarget.document.body.appendChild(raiCntJSObj);
+
+        raiCntJSObj.onload = function(){
+        raiRtgObj = raiOOPTarget.document.createElement('script');
+        raiRtgObj.type = "text/javascript";
+        raiRtgObj.async = "async";
+        raiRtgObj.src = "https://s.richaudience.com/rtg.js";
+        raiOOPTarget.document.body.appendChild(raiRtgObj);
+
+        raiOOPTarget.raiTag = raiOOPTarget.raiTag || {};
+        raiOOPTarget.raiTag.jb = raiOOPTarget.raiTag.jb || [];
+
+        raiOOPTarget.raiTag.jb.push(function(){
+        raiOOPTarget.raiTag.config({mode:'async'});
+        });
+
+        raiOOPTarget.raiTag.jb.push(function(){
+        raiOOPTarget.raiTag.fillHi(raiOOPTarget.raiOOPPidhI521IjvAc);
+        });
+        }
+        }
+        }
+
+            
+    

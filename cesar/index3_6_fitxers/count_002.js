@@ -1,0 +1,1 @@
+/**/ typeof CoralCount.setCount === 'function' && CoralCount.setCount({"ref":"dHJ1ZTtaN1pGNDRNTFhaR0xUSlVKSFkzQUtOUVFYQQ==","html":"<span class=\"coral-count-number\">0</span>","count":0,"id":null});

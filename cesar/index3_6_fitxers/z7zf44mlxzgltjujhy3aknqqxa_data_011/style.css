@@ -1,0 +1,135 @@
+@font-face {
+    font-family: 'Santral';
+    src: url('../assets/fonts/Santral-SemiBold.eot');
+    src: url('../assets/fonts/Santral-SemiBold.eot?#iefix') format('embedded-opentype'),
+    url('../assets/fonts/Santral-SemiBold.woff2') format('woff2'),
+    url('../assets/fonts/Santral-SemiBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+* {
+    backface-visibility: hidden;
+    min-width: 1px;
+    min-height: 1px;
+}
+
+body {
+    background-color: #81d8d0;
+}
+
+img {
+    width: 100%;
+}
+
+p {
+    white-space: nowrap;
+    color: #000;
+    font-family: 'Santral', Arial, Helvetica, sans-serif;
+}
+
+.pos-a {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.pos-r {
+    position: relative;
+}
+
+.container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+/* top */
+.top-txt {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 45%;
+    max-width: 335px;
+    transform: translate(-50%, -50%);
+}
+
+/* sides */
+.size-container-side-top, .size-container-side-bottom {
+    width: 100%;
+    height: 50%;
+    overflow: hidden;
+}
+
+.size-container-side-top {
+    height: 46%;
+}
+
+.size-container-side-bottom {
+    height: 54%;
+}
+
+.container-top {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.bg {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: 50% 0%;
+}
+
+.bg-woman {
+    background-image: url(../assets/right-woman.jpg);
+}
+
+.bg.bg-left {
+    background-image: url(../assets/left-ring2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.cta {
+    position: absolute;
+    bottom: 6%;
+    left: 50%;
+    width: 90%;
+    max-width: 296px;
+    text-align: center;
+    overflow: hidden;
+    transform: translateX(-50%);
+}
+
+.cta-txt {
+    font-size: 23px;
+    padding-bottom: 2%;
+    white-space: normal;
+}
+
+.cta-line {
+    position: relative;
+    width: 100%;
+    padding-bottom: 0.6vw;
+    background: #000;
+}
+
+/* anima */
+.top-txt-anima {
+    opacity: 0;
+}
+
+.cta-txt-anima {
+    transform: translateY(130%);
+}
+
+.cta-line-anima {
+    transform: scaleX(0);
+    transform-origin: left;
+}

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta data-template-name="Template_H5T_inpage-728x90-image">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <link rel="stylesheet" type="text/css" href="728x90_FORD_EXPLORER_PROGRAMATICA_ESTADIO_1_data/style.css">
+  <script src="728x90_FORD_EXPLORER_PROGRAMATICA_ESTADIO_1_data/logic.js"></script>
+  <script type="text/javascript" src="728x90_FORD_EXPLORER_PROGRAMATICA_ESTADIO_1_data/Enabler_01_244.js"></script>
+  <script src="728x90_FORD_EXPLORER_PROGRAMATICA_ESTADIO_1_data/jquery.js"></script>
+
+  <style>
+    #copy1{ opacity:1; position:absolute; }	
+      #copy2{ opacity:1; position:absolute; }	
+      #copy3{ opacity:1; position:absolute; }	
+      #fondo{ opacity:1; position:absolute; }
+      #logo{ opacity:1; position:absolute; }
+      #boton{ opacity:1; position:absolute; }
+    #res { opacity: 1; position: absolute; background: #003478; width: 728px; height: 90px; }
+  </style>
+</head>
+  
+<body>
+  <div id="main-container">
+    <div id="main-img-0" style="visibility: visible;">
+       <img src="728x90_FORD_EXPLORER_PROGRAMATICA_ESTADIO_1_data/fondo.jpg" id="fondo">
+
+        <img src="728x90_FORD_EXPLORER_PROGRAMATICA_ESTADIO_1_data/copy1.png" id="copy1" style="opacity: 0;">
+        <img src="728x90_FORD_EXPLORER_PROGRAMATICA_ESTADIO_1_data/copy2.png" id="copy2" style="opacity: 0;">
+        <img src="728x90_FORD_EXPLORER_PROGRAMATICA_ESTADIO_1_data/copy3.png" id="copy3" style="opacity: 1;">
+
+        <img src="728x90_FORD_EXPLORER_PROGRAMATICA_ESTADIO_1_data/logo.png" id="logo">
+        <img src="728x90_FORD_EXPLORER_PROGRAMATICA_ESTADIO_1_data/cta.png" id="boton">
+       <div id="res" style="opacity: 0;"></div> 
+    </div>
+    <div id="cta"> <div id="exit" style="display: block;"><img id="cierre" src="728x90_FORD_EXPLORER_PROGRAMATICA_ESTADIO_1_data/trans.png"></div> </div>
+  </div>
+  
+  <script type="text/javascript" src="728x90_FORD_EXPLORER_PROGRAMATICA_ESTADIO_1_data/tweenmax_1.js"></script>
+
+  <script>
+    window.onload = function() {    
+
+    var tl = new TimelineMax({repeat:2});	
+
+        tl.to("#res",0.4, {opacity:0});
+        
+        tl.from("#copy1", 0.4, {ease: Power2.easeOut, opacity:0});
+        
+        tl.to("#copy1", 0.4, {ease: Power2.easeOut, opacity:0, delay:2.5});
+        tl.from("#copy2", 0.4, {ease: Power2.easeOut, opacity:0, delay:0});
+        
+        tl.to("#copy2", 0.4, {ease: Power2.easeOut, opacity:0, delay:1.7});
+        tl.from("#copy3", 0.4, {ease: Power2.easeOut, opacity:0, delay:0});
+        
+        tl.to("#copy3", 0.4, {ease: Power2.easeOut, opacity:1, delay:2.5});
+    }
+  </script>
+
+<iframe style="display: none;"></iframe></body></html>
